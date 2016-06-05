@@ -1,6 +1,103 @@
 Institution,Date Submitted,Last Updated,Liason Email,Version,Status,Number of academic divisions,Number of academic departments (or the equivalent),Full-time equivalent enrollment,Full-time equivalent of employees,Full-time equivalent of distance education students,Total number of undergraduate students,Total number of graduate students,Number of degree-seeking students,Number of non-credit students,Number of employees,Number of residential students,Number of residential employees,Number of in-patient hospital beds,Public Notes
-Bucknell University,2016-05-23,2016-05-23 16:29:45,delmogaz@bucknell.edu,2.0,Pursuing,3.0,37.0,3527.2,1308.7,--,3532.0,76.0,3551.0,41.0,1417.0,2973.0,17.0,--,--
-Florida Gulf Coast University,2016-05-23,2016-05-23 16:33:10,kleone@fgcu.edu,2.0,Pursuing,6.0,28.0,10489.0,1180.0,237.0,12775.0,987.0,13762.0,312.0,1415.0,4215.0,14.0,--,"These data are from 2013-14.
+Albion College,2016-02-25,2016-02-25 15:19:04,mfrever@albion.edu,2.0,Pursuing,1.0,23.0,1283.66,398.5,--,1307.0,--,1284.0,23.0,447.0,1155.0,3.0,--,--
+Allegheny College,2016-03-29,2016-03-29 08:53:41,kelly.boulton@allegheny.edu,2.0,Pursuing,4.0,46.0,2082.0,478.0,--,2099.0,--,2099.0,--,515.0,1853.0,6.0,--,--
+American University,2016-03-23,2016-03-23 14:21:44,meganzl@american.edu,2.0,Pursuing,7.0,50.0,12110.0,2814.0,--,7756.0,4354.0,11413.0,697.0,3350.0,3993.0,16.0,--,--
+Appalachian State University,2016-02-01,2016-02-01 13:37:30,balllf@appstate.edu,2.0,Pursuing,8.0,46.0,16094.0,2701.0,987.0,15634.0,1002.0,18026.0,134.0,2902.0,5524.0,--,--,--
+Aquinas College,2016-03-21,2016-03-21 14:45:25,eimerjes@aquinas.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arizona State University,2016-02-29,2016-02-29 15:08:36,corey.hawkey@asu.edu,2.0,Pursuing,22.0,83.0,68374.0,8358.0,6230.0,59382.0,13996.0,72385.0,993.0,8907.0,11712.0,--,--,--
+Austin College,2016-02-29,2016-02-29 18:24:58,pschulze@austincollege.edu,2.0,Pursuing,1.0,23.0,1294.0,319.0,--,1278.0,23.0,1295.0,6.0,353.0,947.0,10.0,--,This data is representative of Fiscal Year 2014. We happened to already have these figures collected for our Greenhouse Gas Emissions Report. 
+Babson College,2016-02-24,2016-02-24 08:38:04,dscott@babson.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,FY14 information
+Ball State University,2016-02-29,2016-02-29 08:26:25,rkoester@bsu.edu,2.0,Pursuing,9.0,55.0,18255.0,3206.0,1462.0,16415.0,4240.0,16415.0,--,3417.0,6752.0,--,--,"The number of employees does not include graduate assistants.
+When graduate assistants are included the number of employees is 4,344.
+When graduate assistants are included in FTE equivalent employees the number is 3,669."
+Baylor University,2016-02-26,2016-02-26 17:48:26,Smith_Getterman@baylor.edu,2.0,Pursuing,12.0,52.0,16001.0,2575.0,18.0,14189.0,2598.0,16787.0,--,2600.0,5289.0,31.0,--,--
+Belmont University,2016-03-14,2016-03-14 08:38:26,mary.lucus@belmont.edu,2.0,Pursuing,10.0,28.0,7039.0,1067.0,--,5983.0,1367.0,7297.0,--,1360.0,3115.0,--,--,--
+Beloit College,2016-03-23,2016-03-23 13:46:50,chapmanlr@beloit.edu,2.0,Pursuing,1.0,30.0,1267.0,367.0,--,1303.0,--,1225.0,66.0,399.0,1065.0,17.0,--,--
+Bentley University,2016-03-25,2016-03-25 16:00:20,nberland@bentley.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Berea College,2016-02-29,2016-02-29 10:22:36,paulyj@berea.edu,2.0,Pursuing,6.0,32.0,1612.0,749.0,--,1621.0,--,1613.0,44.0,749.0,1378.0,--,--,--
+Binghamton University,2016-03-20,2016-03-20 17:32:52,sdejohn@binghamton.edu,2.0,Pursuing,9.0,49.0,15327.5,2389.67,140.0,13491.0,3422.0,16824.0,89.0,2682.0,6899.0,24.0,--,--
+Boston University,2016-03-03,2016-03-03 13:42:13,carlberg@bu.edu,2.0,Pursuing,17.0,238.0,25663.0,8979.0,863.0,16496.0,13954.0,30450.0,2669.0,9978.0,11446.0,197.0,--,--
+Bowdoin College,2016-02-25,2016-02-25 17:01:12,cpayson@bowdoin.edu,2.0,Pursuing,1.0,32.0,1791.0,894.0,--,1805.0,--,1797.0,--,997.0,1643.0,32.0,--,--
+Brown University,2016-03-23,2016-03-23 07:28:16,Ginger_Gritzo@Brown.edu,2.0,Pursuing,5.0,57.0,8454.0,3835.0,--,6168.0,2359.0,8670.0,--,3835.0,4858.0,6.0,--,--
+Bryant University,2015-08-19,2015-08-19 14:50:42,gvalenti@bryant.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Bucknell University,2016-01-19,2016-01-19 09:43:39,delmogaz@bucknell.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+California College of the Arts,2016-02-26,2016-02-26 17:11:56,nbartlett@cca.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+"California State University, Channel Islands",2016-03-14,2016-03-14 18:23:47,dan.wakelee@csuci.edu,2.0,Pursuing,3.0,24.0,5042.5,442.0,166.47,5655.0,226.0,5909.0,823.0,442.0,1243.0,--,--,--
+"California State University, Fullerton",2015-12-15,2015-12-15 13:31:34,mmoscol@fullerton.edu,2.0,Pursuing,8.0,65.0,29892.0,7073.0,2698.0,33049.0,5276.0,37478.0,--,4173.0,1904.0,--,--,--
+"California State University, Northridge",2016-02-25,2016-02-25 20:34:39,austin.eriksson@csun.edu,2.0,Pursuing,9.0,87.0,33501.0,3188.0,3376.0,36917.0,4743.0,41548.0,--,4219.0,3100.0,57.0,--,--
+"California State University, Sacramento",2016-02-18,2016-02-18 12:17:18,kristina.cullen@csus.edu,2.0,Pursuing,88.0,8.0,25229.0,1860.0,9532.0,26648.0,2701.0,28639.0,710.0,2874.0,1700.0,49.0,--,http://www.csus.edu/oir/
+Calvin College,2016-03-11,2016-03-11 14:31:22,bhaney@calvin.edu,2.0,Pursuing,3.0,28.0,3885.0,758.0,10.0,3894.0,99.0,3893.0,5.0,854.0,2269.0,10.0,--,"FTE & Headcount of staff and faculty is from IPEDS 2014 report. 710 + 144 (Fall 2014)
+
+Student counts are from Day 10 report, Fall 2014.http://www.calvin.edu/offices-services/enrollment-research/reports/archives/2014/2014tables.pdf
+
+Residential students is from ""Enrollment by Residence Hall"" internal report (Tom Van Eck)
+Fall 2014: 2,269.
+
+Non-credit students: estimate based on history.
+
+Dorothy Britton and Becki Simpson for residential employees.
+
+Distance Learning: 
+Ugrad: 6 students took exclusively UG distance courses in Fall 2014. 6 * 3.5 credits per course = 21 total credits. 21/12 (credit hours to be full-time student) = 1.75 FTE UG.
+Graduate: 25 graduate students took distance courses. 25 *3 (credits) / 9 (credits to be fulltime graduate) = 8.3.
+1.75 + 8.3 = 10 FTE exclusively distance learners. 
+"
+Carleton College,2016-02-26,2016-02-26 11:19:38,mlarson@carleton.edu,2.0,Pursuing,1.0,41.0,2042.0,669.0,--,2042.0,--,2042.0,--,796.0,1780.0,40.0,--,"1) Full time equivalent faculty/staff calculated by counting all PT staff/faculty as 0.5 and adding to number of FT faculty/staff.  
+
+2) Number of residential students varies each term due to off campus studies program enrollment.
+
+3) Number of residential employees includes faculty/staff living in Carleton owned apartments plus Hall Directors residing in the residence halls."
+Carnegie Mellon University,2015-12-10,2015-12-10 11:04:16,bk11@andrew.cmu.edu,2.0,Pursuing,7.0,57.0,11263.6,4816.0,132.6,5834.0,5823.0,11657.0,83.0,5176.0,3935.0,--,--,--
+Case Western Reserve University,2016-03-25,2016-03-25 15:40:32,stephanie.corbett@case.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Chatham University,2016-02-17,2016-02-17 13:05:00,MWhitney@chatham.edu,2.0,Pursuing,7.0,31.0,2134.0,402.0,135.0,932.0,1202.0,2134.0,333.0,551.0,448.0,12.0,--,--
+Clark University,2016-02-24,2016-02-24 15:49:35,jisler@clarku.edu,2.0,Pursuing,3.0,21.0,3315.0,756.0,--,2336.0,908.0,3395.0,90.0,1007.0,1819.0,--,--,--
+Clarkson University,2016-02-12,2016-02-12 07:37:56,sep@clarkson.edu,2.0,Pursuing,5.0,16.0,3711.0,747.0,147.0,3247.0,626.0,3737.0,136.0,807.0,2479.0,1.0,--,--
+Coastal Carolina University,2015-11-20,2015-11-20 15:31:23,sustain@coastal.edu,2.0,Pursuing,5.0,24.0,8870.0,1262.0,12.0,8867.0,611.0,9030.0,18.0,1582.0,3424.0,14.0,--,--
+Colby College,2016-01-12,2016-01-12 15:54:23,ksbright@colby.edu,2.0,Pursuing,4.0,33.0,1820.0,721.0,--,1820.0,--,1820.0,--,721.0,1720.0,13.0,--,--
+Colgate University,2016-02-28,2016-02-28 11:21:50,jpumilio@colgate.edu,2.0,Pursuing,4.0,40.0,2863.0,1031.0,--,2863.0,19.0,2863.0,--,1031.0,2437.0,4.0,--,"Academic Year 2015-16:
+On campus residential students: 2437
+Students living off campus: 251
+Students studying abroad: 233"
+College of Charleston,2016-02-29,2016-02-29 16:53:01,fisherb@cofc.edu,2.0,Pursuing,8.0,31.0,10365.0,1761.0,--,10440.0,1016.0,10860.0,596.0,2148.0,3000.0,--,--,"Academic divisions includes all 6 schools, the Honors College and the graduate school.
+
+Academic Departments include only departments listed here: http://marcomm.cofc.edu/brandmanual/bychapter/styleguide/sg_deptoffices.php. Programs are not inlcuded.
+
+Non credit students include both graduate and undergraduate"
+College of the Atlantic,2016-03-23,2016-03-23 11:15:36,ademeo@coa.edu,2.0,Pursuing,1.0,3.0,345.0,105.0,--,378.0,8.0,373.0,13.0,120.0,136.0,--,--,"Data above are for the 2014-2015 academic year (July 1, 2014 through June 30, 2015), except number of employees (headcount) which is from February 2015 payroll. 
+
+The number of degree seeking students above includes both graduate and undergraduate: 365 degree seeking undergraduates and 8 graduate students, for a total of 373. "
+Colorado College,2016-02-29,2016-02-29 16:10:08,Ian.Johnson@ColoradoCollege.edu,2.0,Pursuing,2.0,35.0,2096.0,744.0,--,2097.0,11.0,2096.0,--,887.0,1548.0,7.0,--,--
+Colorado State University,2015-12-16,2015-12-16 16:39:18,tonie.miyamoto@colostate.edu,2.0,Pursuing,8.0,58.0,24888.04,6521.0,3218.0,22506.0,4580.0,30304.0,2068.0,8317.0,6443.0,603.0,--,--
+Columbia University,2016-01-13,2016-01-13 14:27:23,as3215@columbia.edu,2.0,Pursuing,21.0,156.0,22344.0,18379.0,793.0,7777.0,15460.0,23870.0,1645.0,23201.0,5561.0,1523.0,--,--
+Connecticut College,2016-02-28,2016-02-28 16:33:11,jstoffel@conncoll.edu,2.0,Pursuing,1.0,56.0,1906.0,600.0,--,1900.0,6.0,1900.0,6.0,825.0,1900.0,20.0,--,--
+Cornell University,2016-03-18,2016-03-18 08:39:45,cma18@cornell.edu,2.0,Pursuing,12.0,79.0,20951.0,10769.0,47.0,14132.0,6819.0,21671.0,577.0,11597.0,7344.0,505.0,--,--
+Creighton University,2016-02-24,2016-02-24 14:08:51,mjduda@creighton.edu,2.0,Pursuing,9.0,54.0,8212.0,1920.7,845.7,4065.0,4171.0,8108.0,128.0,2162.0,2426.0,10.0,--,Data are for academic 2014-15. This is to be consistent with the performance base year using across this survey.
+Denison University,2016-02-15,2016-02-15 15:55:41,kingje@denison.edu,2.0,Pursuing,5.0,29.0,2151.0,671.0,--,2295.0,--,2265.0,15.0,754.0,2119.0,10.0,--,Numbers submitted are from FY2015 - The 2014-2015 Academic Year.
+Dickinson College,2016-03-08,2016-03-08 10:06:49,welkerm@dickinson.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,"All population data is for academic year 13/14, which maps well to FY 14 (July 1 2013 - June 30 2014).  No summer data is used for any student population numbers.  In Fall 2013, there was an online course offered by one professor for graduate credit - the participating students were not counted above.
+
+Employee numbers, both employees headcount and FTE equivalents, is of July 1, 2014."
+Drew University,2016-03-25,2016-03-25 16:12:25,swald@drew.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Duke University,2016-02-26,2016-02-26 14:18:13,tavey.mcdaniel@duke.edu,2.0,Pursuing,10.0,62.0,14950.0,30603.0,--,6485.0,8465.0,14950.0,--,30603.0,5300.0,--,957.0,"10 Divisions - 
+Divinity School
+Fuqua School of Business
+Law School
+Nicholas School of the Environment
+Pratt School of Engineering
+Sanford School of Public Policy
+School of Medicine
+School of Nursing
+Trinity
+Graduate School"
+Earlham College,2016-03-03,2016-03-03 10:50:01,butchli@earlham.edu,2.0,Pursuing,4.0,33.0,982.0,371.0,--,988.0,13.0,1001.0,--,441.0,845.0,4.0,--,--
+Eastern Connecticut State University,2016-03-03,2016-03-03 15:13:25,stoddardl@easternct.edu,2.0,Pursuing,4.0,17.0,4777.5,759.0,481.0,4288.0,148.0,5287.0,191.0,600.0,2547.0,12.0,--,"This information was verified with help from the following people:
+* LaMar Coleman provided number of residential employees (2015 data taken at 3 week freeze mark at start of fall semester). 
+* Brian Lashley provided other institutional demographics. 
+* Indira Petoskey provided number of non-credit students."
+Elon University,2016-01-14,2016-01-14 09:32:56,edurr@elon.edu,2.0,Pursuing,6.0,34.0,6355.0,1347.0,--,5782.0,701.0,6483.0,--,1475.0,3496.0,22.0,--,"Data represents 2014-2015
+Number of academic departments includes undergraduate and graduate."
+Emory University,2016-02-29,2016-02-29 16:26:40,ciannat.howett@emory.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Endicott College,2016-03-01,2016-03-01 10:10:10,screight@endicott.edu,2.0,Pursuing,17.0,10.0,3626.0,585.4,--,2950.0,1652.0,3815.0,--,895.0,2139.0,17.0,--,--
+Florida Gulf Coast University,2016-02-29,2016-02-29 17:56:25,kleone@fgcu.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,"These data are from 2013-14.
 
 The total headcount of employees does not include student workers, TAs or GAs. 
 
@@ -50,11 +147,292 @@ Undergraduate Studies (UGS)
 *(Honors is a department of UGS, but is not listed because its courses and research are counted through other departments for AC-1 and AC-9 of this report)
  
 "
-Haverford College,2016-05-23,2016-05-23 16:39:30,ckent@haverford.edu,2.0,Pursuing,3.0,29.0,1187.0,562.3,--,1195.0,--,1187.0,--,658.0,1173.0,75.0,--,--
-Juniata College,2016-05-23,2016-05-23 16:48:56,yelnosr@juniata.edu,2.0,Pursuing,1.0,24.0,1625.0,350.0,--,1616.0,9.0,1575.0,--,340.0,1205.0,12.0,--,--
-Oregon State University,2016-05-23,2016-05-23 16:54:22,brandon.trelstad@oregonstate.edu,2.0,Pursuing,12.0,59.0,25377.7,5397.4,3181.7,24573.0,5150.0,27650.0,2923.0,6336.0,4738.0,15.0,--,"Thanks to Institutional Research for their support in providing many of these numbers, and data elsewhere in STARS."
-Pittsburg State University,2016-05-23,2016-05-23 16:57:44,bpeery@pittstate.edu,2.0,Pursuing,5.0,23.0,7040.0,600.0,483.0,6270.0,1209.0,6936.0,543.0,820.0,1187.0,51.0,--,--
-Slippery Rock University,2016-05-23,2016-05-23 17:00:37,paul.scanlon@sru.edu,2.0,Pursuing,4.0,36.0,8687.0,858.0,1158.0,7583.0,1045.0,8418.0,1033.0,923.0,2379.0,--,--,--
-University of Texas Rio Grande Valley,2016-05-23,2016-05-23 17:03:50,Marianella.Franklin@utrgv.edu,2.0,Pursuing,7.0,40.0,16261.0,3029.0,7432.0,18200.0,2815.0,20784.0,298.0,3029.0,890.0,17.0,--,Data based on academic year beginning Sept 1 2014.
-Weber State University,2016-05-23,2016-05-23 17:05:24,jenniferbodine@weber.edu,2.0,Pursuing,10.0,47.0,15617.33,1685.0,2564.0,24498.0,657.0,18265.0,6890.0,2374.0,750.0,5.0,--,--
-Wilfrid Laurier University,2016-05-23,2016-05-23 17:08:03,cbennett@wlu.ca,2.0,Pursuing,10.0,48.0,18898.0,2951.0,--,23865.0,2991.0,26856.0,--,2951.0,3480.0,--,--,--
+Fort Lewis College,2016-03-27,2016-03-27 16:00:52,kehilimire@fortlewis.edu,2.0,Pursuing,2.0,31.0,3544.0,529.0,--,3679.0,13.0,3570.0,--,643.0,1492.0,--,--,--
+Furman University,2016-02-22,2016-02-22 13:43:10,yancey.fouche@furman.edu,2.0,Pursuing,2.0,24.0,2769.0,848.0,--,2798.0,155.0,2908.0,45.0,1885.0,2439.0,--,--,--
+George Washington University,2016-02-29,2016-02-29 13:04:27,shannonross@gwu.edu,2.0,Pursuing,10.0,73.0,22032.0,5982.5,2258.0,10900.0,14843.0,25743.0,469.0,6780.0,7068.0,27.0,--,"The most recent data for employees and departments is from FY15 and for students it is from FY16.
+
+- FTE enrollment methodology: # full-time students + 1/3 # part-time students (consistent with recommended formula per American College & University Presidents' Climate Commitment (ACUPCC)
+
+- FTE employee methodology: # full-time employees + 1/2 # part-time employees
+
+-Enrollment numbers were populated from this source: http://www.gwu.edu/~ire/enrollment.htm
+
+-Information regarding academic departments can be found here: http://www.gwu.edu/colleges-schools"
+Georgia College & State University,2016-03-25,2016-03-25 19:09:32,doug.oetter@gcsu.edu,2.0,Pursuing,5.0,25.0,6889.0,1033.0,231.0,6036.0,853.0,6929.0,121.0,1033.0,2195.0,--,--,--
+Gonzaga University,2016-02-29,2016-02-29 13:09:22,simonj@gonzaga.edu,2.0,Pursuing,8.0,75.0,7255.0,1179.0,714.0,4896.0,2709.0,7436.0,169.0,1214.0,3241.0,1214.0,--,--
+Green Mountain College,2016-03-21,2016-03-21 15:55:33,ihrker@greenmtn.edu,2.0,Pursuing,1.0,29.0,826.0,174.9,270.0,573.0,260.0,817.0,16.0,246.0,468.0,9.0,--,"The performance year for this credit is FY 2015.
+
+Green Mountain College is a small school focused on sustainability education across the liberal arts and pre-professional curriculum. Consequently, in our 2011 STARS report, it seemed most appropriate to consider the entire school the same division. Not only is our entire school smaller than many divisions at larger schools, but faculty teach classes in multiple programs across the school. We continue that practice in this report.
+
+The College eliminated academic departments in 2008 and increased its emphasis on interdisciplinary teaching. Given how small our academic programs are and the wide ranges of faculty responsibilities across multiple programs, we decided not to operate under the traditional department model. For the sake of this report, departments are identified as programs that offer classes and have a head of the 'program'. The Environmental Liberal Arts program is indicated in the course inventory as a separate department but in the academic research credit it is not as no faculty exist only in this program, but instead are housed in a separate major or minor offerings. 
+
+The enrollment numbers here include students under continuous enrollment. 
+
+The full-time equivalent employee numbers include employees working for the two permanent on-site contractors: Chartwells (Dining Services) and CW(Facilities). "
+Guilford College,2016-03-08,2016-03-08 08:08:40,corrybc@guilford.edu,2.0,Pursuing,5.0,31.0,2445.0,398.0,--,2025.0,--,2025.0,--,398.0,1191.0,21.0,--,--
+Hampshire College,2016-03-23,2016-03-23 09:59:07,bhooker@hampshire.edu,2.0,Pursuing,5.0,5.0,1379.0,391.0,--,1461.0,--,1438.0,--,420.0,1103.0,4.0,--,--
+Harvard University,2016-02-29,2016-02-29 16:59:06,colin_durrant@harvard.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Haverford College,2016-03-02,2016-03-02 12:02:13,ckent@haverford.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hobart and William Smith Colleges,2016-03-18,2016-03-18 08:33:51,sustainability@hws.edu,2.0,Pursuing,2.0,54.0,2345.0,926.0,--,2297.0,4.0,2268.0,--,926.0,1924.0,17.0,--,"HWS does not currently track FTE annually so “Full-time equivalent of employees (staff + faculty, annualized FTE)” has been best represented by a head count of HWS paid faculty and staff."
+Indiana State University,2016-03-29,2016-03-29 10:18:26,caroline.savage@indstate.edu,2.0,Pursuing,5.0,43.0,13584.0,1308.0,1519.0,11330.0,2254.0,12944.0,640.0,1901.0,3881.0,43.0,--,--
+Indiana University Bloomington,2016-03-23,2016-03-23 09:43:22,brownwm@indiana.edu,2.0,Pursuing,16.0,97.0,40282.0,8543.0,809.3196895,36419.0,9997.0,41349.0,784.0,27521.0,12758.0,28.0,--,--
+Juniata College,2016-03-23,2016-03-23 08:09:35,yelnosr@juniata.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kent State University,2016-03-25,2016-03-25 10:17:20,mknowle1@kent.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Knox College,2016-03-23,2016-03-23 08:31:02,sustainability@knox.edu,2.0,Pursuing,1.0,41.0,1397.0,461.0,--,1397.0,--,1377.0,20.0,461.0,1189.0,3.0,--,--
+Lehigh University,2016-02-29,2016-02-29 00:26:23,sustainability@lehigh.edu,2.0,Pursuing,4.0,31.0,6654.0,1753.0,281.0,5062.0,2057.0,6998.0,121.0,1849.0,3387.0,--,--,--
+Lewis & Clark College,2016-03-18,2016-03-18 17:08:08,advorak@lclark.edu,2.0,Pursuing,3.0,36.0,3322.0,709.0,--,2184.0,1317.0,3526.0,--,1429.0,1465.0,36.0,--,--
+Loyola Marymount University,2016-03-23,2016-03-23 14:02:34,ian.mckeown@lmu.edu,2.0,Pursuing,6.0,54.0,7906.0,1921.0,--,6184.0,2189.0,7900.0,473.0,2301.0,3210.0,40.0,--,"Institution does not have a hospital on site, only student health and psychological offices. number of employees"
+Loyola University Chicago,2016-02-26,2016-02-26 17:50:37,adurnbaugh@luc.edu,2.0,Pursuing,11.0,116.0,14613.0,2833.0,999.0,10332.0,5580.0,15632.0,280.0,3454.0,4409.0,26.0,--,All demographic and academic numbers are for FY2015
+Macalester College,2016-01-06,2016-01-06 13:03:01,shansen2@macalester.edu,2.0,Pursuing,1.0,31.0,2020.0,591.0,--,2039.0,--,2039.0,--,771.0,1293.0,14.0,--,--
+Maryville College,2016-02-11,2016-02-11 15:37:45,adrienne.schwarte@maryvillecollege.edu,2.0,Pursuing,8.0,64.0,1162.0,426.0,--,1213.0,--,1213.0,--,426.0,831.0,6.0,--,"The number of academic departments reflects the number of Programs of Study Maryville College offers which can be found at http://maryvillecollege.edu/academics/programs-of-study/ 
+
+The headcount and annualized FTE numbers reflect the 2014-2015 academic year."
+Massachusetts Institute of Technology,2016-02-10,2016-02-10 11:45:14,slanou@mit.edu,2.0,Pursuing,6.0,32.0,11192.0,9299.0,--,4528.0,6773.0,11119.0,--,9692.0,6061.0,25.0,--,"MIT Medical Center does not provide in-patient care, and therefore does not have any in-patient hospital beds.
+
+The number of residential employees is assumed to be equal to the number of MIT faculty and MIT staff serving as housemasters in undergraduate and graduate on-campus housing, as listed on the websites of the MIT Housing Office and the MIT Division of Student Life.
+ 
+Source: http://web.mit.edu/ir/cds/2013/cds2013.html; http://www.cambridgema.gov/~/media/Files/CDD/Planning/TownGown/tg2013/town_gown_2013_mit.ashx; http://housing.mit.edu; http://studentlife.mit.edu/housemasters"
+McMaster University,2016-02-19,2016-02-19 09:37:36,naeemsh@mcmaster.ca,2.0,Pursuing,6.0,6.0,26077.0,7380.0,--,24569.0,4348.0,30117.0,1000.0,7380.0,3578.0,50.0,--,--
+Miami University,2016-03-02,2016-03-02 14:17:58,kliney@miamioh.edu,2.0,Pursuing,6.0,52.0,11923.0,3206.0,346.0,15975.0,2643.0,17255.0,1083.0,3554.0,5275.0,35.0,--,"In this and other credits requiring annualized figures, they were calculated as follows:
+for students and residential employees: 70% of the fall figure (headcount or FTE, as designated)
+for all other employees: 90% of the fall figure (headcount or FTE, as designated)
+This simple estimation method was chosen for student figures because it corresponded well to one year's worth of  detailed and carefully-assembled data that was annualized by calculating a weighted average based on counts per semester and the number of weeks in each semester.  It made data-gathering much simpler for credits that used such data from different baseline years.
+Using the same method, but with a factor of 0.9, to annualize employees, seemed to be a reasonable estimate.
+"
+Michigan State University,2016-02-16,2016-02-16 09:19:23,erhardt7@msu.edu,2.0,Pursuing,19.0,113.0,46159.0,11489.0,--,38786.0,11299.0,50085.0,1737.0,11956.0,16143.0,--,--,Data based on Fall 2014 numbers.
+Middlebury College,2016-03-25,2016-03-25 14:03:26,jmbyrne@middlebury.edu,2.0,Pursuing,4.0,56.0,2802.0,1295.0,--,2516.0,--,2516.0,--,1295.0,2466.0,--,--,"In addition to an undergraduate population of 2,516 students during the traditional academic year (September to May) the Middlebury Campus is fully utilized during the summer (June to August) by its Summer Language Program. Thus, the FTE equivalent enrollment is 2,802. This is also the case for faculty numbers as well as the summer language school has summer faculty who are present and often reside on campus during the summer."
+Mills College,2016-02-29,2016-02-29 23:53:54,ngaetjens@mills.edu,2.0,Pursuing,5.0,17.0,1272.18,411.87,--,867.0,538.0,1398.0,7.0,579.0,563.0,18.0,--,--
+Mount Holyoke College,2016-01-25,2016-01-25 09:10:14,neapple@mtholyoke.edu,2.0,Pursuing,1.0,30.0,2221.0,862.0,--,2183.0,68.0,2136.0,15.0,1045.0,2076.0,6.0,--,--
+Muhlenberg College,2016-03-23,2016-03-23 10:27:47,kprocyk@muhlenberg.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,Number of residential employees is an estimate.  This number is small and has not been calculated.
+Naropa University,2016-02-29,2016-02-29 17:16:52,acook@naropa.edu,2.0,Pursuing,5.0,26.0,922.0,230.0,60.0,397.0,663.0,1028.0,32.0,367.0,75.0,1.0,--,--
+North Carolina State University,2016-01-28,2016-01-28 13:27:50,lindsay_batchelor@ncsu.edu,2.0,Pursuing,12.0,71.0,29937.0,8696.1,1565.75,21742.0,8565.0,28269.0,2204.0,8971.0,7357.0,237.0,--,--
+Northern Arizona University,2016-02-23,2016-02-23 18:52:12,Ellen.Vaughan@nau.edu,2.0,Pursuing,7.0,35.0,20892.0,3199.0,2460.0,18524.0,1610.0,19986.0,--,4682.0,7685.0,36.0,--,--
+Oberlin College,2016-03-21,2016-03-21 16:09:53,bflynn@oberlin.edu,2.0,Pursuing,2.0,51.0,2959.0,965.0,--,2936.0,26.0,2959.0,53.0,1295.0,2604.0,25.0,--,--
+Ohio University,2016-03-23,2016-03-23 07:58:04,goetze@ohio.edu,2.0,Pursuing,12.0,46.0,23700.0,3460.0,3062.0,23504.0,5282.0,23331.0,--,4061.0,7581.0,20.0,--,Data is from FY14
+Onondaga Community College,2016-02-26,2016-02-26 16:34:05,vormwals@sunyocc.edu,2.0,Pursuing,4.0,28.0,3820.85,926.0,213.97,11800.0,--,8303.5,3496.5,1525.0,873.0,4.0,--,--
+Oregon State University,2016-03-30,2016-03-30 14:51:02,brandon.trelstad@oregonstate.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,"Thanks to Institutional Research for their support in providing many of these numbers, and data elsewhere in STARS."
+Pennsylvania State University,2016-03-21,2016-03-21 11:48:53,mme2@psu.edu,2.0,Pursuing,13.0,83.0,45661.0,15577.0,6320.0,40742.0,6106.0,46195.0,653.0,17027.0,14211.0,--,--,"FTE of employees was estimated by using full-time and part-time non-student headcounts from the Penn State Fact Book, and assuming that part-time and ""casual"" workers are 0.625 FTE.
+Number of residential employees was not available; assumed zero because likely very small.
+FTE distance education enrollment is NOT included in the overall FTE enrollment value."
+Pittsburg State University,2016-03-24,2016-03-24 14:48:23,bpeery@pittstate.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Pitzer College,2016-02-22,2016-02-22 14:38:56,warren_biggins@pitzer.edu,2.0,Pursuing,--,29.0,980.67,298.0,--,1076.0,--,1076.0,30.0,356.0,815.0,6.0,--,This information is compiled from data from the 2013 - 2014 fiscal year.
+Plymouth State University,2016-02-29,2016-02-29 11:42:40,bweisenhauer@plymouth.edu,2.0,Pursuing,3.0,25.0,5156.0,763.0,100.0,4105.0,1051.0,5156.0,98.0,1037.0,2299.0,19.0,--,--
+Pomona College,2016-01-11,2016-01-11 17:28:34,alexis.reyes@pomona.edu,2.0,Pursuing,3.0,43.0,1584.0,700.0,--,1612.0,--,1587.0,25.0,747.0,1488.0,19.0,--,--
+Portland State University,2016-03-24,2016-03-24 17:20:56,jenny.mcnamara@pdx.edu,2.0,Pursuing,8.0,59.0,20214.41,2437.0,647.0,22613.0,5628.0,24638.0,3603.0,4071.0,2079.0,53.0,--,--
+Princeton University,2016-01-20,2016-01-20 17:01:06,kristiw@princeton.edu,2.0,Pursuing,4.0,34.0,7910.0,6323.0,--,5244.0,2666.0,7910.0,1384.0,6323.0,6836.0,241.0,--,--
+Principia College,2016-01-30,2016-01-30 21:54:37,karen.eckert@principia.edu,2.0,Pursuing,1.0,24.0,503.0,323.0,--,503.0,--,503.0,--,358.0,503.0,105.0,13.0,--
+Purdue University,2016-02-26,2016-02-26 16:45:19,mgulich@purdue.edu,2.0,Pursuing,15.0,112.0,35213.0,12194.0,19768.0,29440.0,8407.0,38788.0,--,15697.0,11243.0,--,--,--
+Randolph College,2016-02-26,2016-02-26 14:25:31,llemaitre@randolphcollege.edu,2.0,Pursuing,1.0,23.0,681.0,234.0,--,675.0,18.0,658.0,17.0,320.0,624.0,5.0,--,--
+Rice University,2016-03-25,2016-03-25 16:32:51,rrj@rice.edu,2.0,Pursuing,8.0,90.0,6446.67,2861.0,--,3965.0,2663.0,6487.0,14000.0,3134.0,2824.0,71.0,--,"Data is for Fall 2013, except for non-credit students (fall 2012)."
+Rochester Institute of Technology,2016-03-25,2016-03-25 15:53:28,elcpro@rit.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Saint Louis University,2016-03-24,2016-03-24 17:17:49,bverhof1@slu.edu,2.0,Pursuing,15.0,74.0,11766.0,5212.0,1556.0,8564.0,4723.0,--,--,6124.0,3578.0,19.0,--,"Values of 0, are not necessarily 0.  Some data was unavailable to report at this time and was a required entry, so needed to be reported as a number."
+San Francisco State University,2016-03-25,2016-03-25 17:34:35,kordesch@sfsu.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Santa Clara University,2016-02-26,2016-02-26 20:44:48,lkalkbrenner@scu.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Seattle University,2016-03-23,2016-03-23 11:53:52,thompson@seattleu.edu,2.0,Pursuing,9.0,52.0,6454.5,1377.0,--,4511.0,2762.0,7273.0,--,1498.0,2160.0,--,--,--
+Sewanee - The University of the South,2016-02-10,2016-02-10 09:31:44,mpate@sewanee.edu,2.0,Pursuing,3.0,24.0,1697.0,615.41,--,1631.0,84.0,1697.0,18.0,734.0,1603.0,12.0,20.0,--
+Sheridan Institute of Technology and Advanced Learning,2016-01-15,2016-01-15 16:30:24,andre.plante@sheridancollege.ca,2.0,Pursuing,1.0,6.0,8134.0,924.0,--,24691.0,1086.0,12049.0,14088.0,4186.0,736.0,1.67,--,Apprenticeship program (360) students are included in the degree-seeking student headcount.
+Simon Fraser University,2016-02-08,2016-02-08 23:41:53,erica_lay@sfu.ca,2.0,Pursuing,8.0,38.0,26501.3,2676.5,1727.3,30182.0,5422.0,35604.0,5114.0,4942.0,1533.33,--,--,--
+Slippery Rock University,2016-02-29,2016-02-29 14:19:03,paul.scanlon@sru.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Smith College,2016-03-23,2016-03-23 08:30:32,dweisbor@smith.edu,2.0,Pursuing,3.0,48.0,2821.0,1223.0,--,2478.0,396.0,2869.0,5.0,1314.0,2269.0,6.0,--,"Smith College has 31 Departments, 13 Programs, 48 Academic Majors, 27 Academic Minors, 12 Concentrations, and 15 Five College Certificates. (Note that these are not mutually exclusive categories.) Smith College also offers the following master's degree programs/departments: 5 Master of Arts in Teaching programs, a Master of Education of the Deaf program, 2 Master of Fine Arts programs, and 2 Master of Science programs.  We also have two ""special"" programs, which are not master's degree programs but are coordinated through the graduate studies office: Post-baccalaureate in Mathematics and a Diploma in American Studies. Smith College also has a separate School for Social Work that includes a Master of Social Work program and a Ph.D. in Social Work program.
+"
+Southern Connecticut State University,2016-03-24,2016-03-24 14:21:20,huminskis1@southernct.edu,2.0,Pursuing,4.0,51.0,8833.0,1237.0,--,8133.0,2692.0,10804.0,--,1237.0,2567.0,9.0,--,"These statistics are found in the SCSU Common Data Set: 
+http://www.southernct.edu/offices/management/CDS2013-2014_SCSU.pdf
+and the SCSU Factbook:
+http://ares.southernct.edu/departments/research/index.html
+"
+Southern Illinois University Carbondale,2016-03-25,2016-03-25 17:23:00,glkurtzhals@siu.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Southern Oregon University,2016-03-23,2016-03-23 15:39:21,beigelcod@sou.edu,2.0,Pursuing,7.0,33.0,4155.0,623.0,458.0,4844.0,594.0,5438.0,2090.0,797.0,961.0,--,--,--
+Spelman College,2016-02-15,2016-02-15 08:21:39,aefrazier@spelman.edu,2.0,Pursuing,4.0,24.0,2097.0,582.0,--,2135.0,--,2135.0,--,631.0,--,--,--,Spelman uses the Integrated Postsecondary Education Data System (IPEDS) simplified student/staff FTE. It is calculated by counting the number of full-time students/staff and adding one-third of part-time students/staff.  Note:  IPEDS- Fall student headcount is divided by .392857. Part-time staff headcount is divided by .3333.
+St. John's University,2016-03-02,2016-03-02 16:31:50,goldsmit@stjohns.edu,2.0,Pursuing,6.0,44.0,12951.0,963.0,392.0,15497.0,4461.0,11270.0,4626.0,1981.0,3302.0,4.0,--,"*Current Resident Faculty:
+1.Raj Chetty
+2.Kathleen Marks
+3.Shari A. Lee
+4.Joseph M. Serafin
+
+*All student data can be accessed at:http://www.stjohns.edu/sites/default/files/fall_2014_combined_enrollment.pdf
+ 
+*Information used for distance learning can be found at: http://www.stjohns.edu/sites/default/files/documents/ir/ipeds_fall_enrollment_data_submitted_sp2014.pdf"
+Stanford University,2016-03-23,2016-03-23 01:13:33,mbhafer@stanford.edu,2.0,Pursuing,7.0,87.0,15606.0,12297.0,--,6999.0,8958.0,15957.0,1392.0,14481.0,11147.0,--,--,--
+State University of New York College of Environmental Science and Forestry,2016-03-23,2016-03-23 01:50:52,malichte@esf.edu,2.0,Pursuing,2.0,7.0,2067.0,515.0,43.0,1728.0,472.0,2183.0,17.0,547.0,569.0,5.0,--,--
+State University of New York at Cortland,2015-10-09,2015-10-09 13:16:05,Beth.Klein@cortland.edu,2.0,Pursuing,3.0,27.0,3173.0,1163.0,--,6418.0,704.0,7110.0,--,1432.0,3404.0,22.0,--,--
+State University of New York at Geneseo,2016-03-24,2016-03-24 11:00:06,dezarn@geneseo.edu,2.0,Pursuing,1.0,20.0,5579.67,796.0,--,5583.0,116.0,5658.0,--,910.0,3105.0,11.0,--,"Jeremy Hall/Julie Rao
+
+Number of Residential employees is exclusive of resident student-employees "
+State University of New York at New Paltz,2016-01-11,2016-01-11 09:08:33,mittenl@newpaltz.edu,2.0,Pursuing,5.0,38.0,6926.85,1198.33,115.67,6642.0,1050.0,7429.0,263.0,1465.0,2930.0,16.0,--,--
+Sterling College,2016-01-28,2016-01-28 10:04:26,cfeuerstein@sterlingcollege.edu,2.0,Pursuing,--,5.0,120.0,45.0,--,128.0,--,128.0,31.0,61.0,120.0,5.0,--,"Academic Divisions, Graduate Program, and Distance Education are not applicable criteria since they do not exist at this institution. "
+Stevens Institute of Technology,2016-03-24,2016-03-24 15:22:18,gotham360@stevens.edu,2.0,Pursuing,4.0,11.0,5129.0,982.0,--,2820.0,3094.0,5720.0,194.0,1255.0,1881.0,12.0,--,--
+Syracuse University,2016-03-25,2016-03-25 15:33:44,macadwel@syr.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Temple University,2016-02-09,2016-02-09 14:47:15,kathleen.grady@temple.edu,2.0,Pursuing,18.0,123.0,33955.0,6947.0,166.0,28408.0,9380.0,36153.0,1635.0,8277.0,5313.0,12.0,--,This data is based on Fall 2014 data. 
+Texas A&M University,2016-01-15,2016-01-15 14:25:00,kwellman@tamu.edu,2.0,Pursuing,10.0,88.0,48081.0,6984.0,507.0,42209.0,10739.0,52437.0,102.0,7549.0,10000.0,212.0,--,--
+Texas Tech University,2016-03-25,2016-03-25 15:47:34,carey.hewett@ttu.edu,2.0,Pursuing,12.0,64.0,31282.0,6393.0,4150.0,26580.0,4702.0,35173.0,686.0,6183.0,7602.0,264.0,--,--
+The Ohio State University,2016-01-26,2016-01-26 15:47:00,dial.15@osu.edu,2.0,Pursuing,15.0,227.0,50934.39,29146.09,6224.0,45289.0,7219.0,52508.0,3155.0,31069.0,11649.0,313.0,1310.0,--
+Tufts University,2016-02-25,2016-02-25 15:40:34,tina.woolston@tufts.edu,2.0,Pursuing,9.0,90.0,10461.5,4513.24,31.0,5159.0,5692.0,10664.0,208.0,4526.0,3519.0,11.0,--,--
+Tulane University,2016-02-04,2016-02-04 11:04:04,ldavey@tulane.edu,2.0,Pursuing,10.0,80.0,11944.0,5254.0,--,8353.0,5178.0,12869.0,662.0,6356.0,3974.0,15.0,--,--
+Unity College,2016-03-25,2016-03-25 15:25:19,JdeHart@unity.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,"Unity College provides an applied liberal arts education in sustainability science that emphasizes the environment and natural resources.  The most popular majors are in wildlife, biology, and conservation law."
+University at Albany,2016-02-23,2016-02-23 17:54:14,mmallia@albany.edu,2.0,Pursuing,8.0,43.0,15858.0,4075.0,1081.0,12822.0,4516.0,16824.0,514.0,4764.0,7500.0,43.0,--,--
+University at Buffalo,2016-01-19,2016-01-19 10:15:55,jlk47@buffalo.edu,2.0,Pursuing,12.0,91.0,27536.0,7608.0,--,19831.0,10019.0,28839.0,1011.0,8608.0,7600.0,34.0,--,Most information comes from UB's common data set 2013-14. 
+University of Arizona,2016-03-25,2016-03-25 15:32:15,bchampion@email.arizona.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,"The number of hospital beds reported is based on the number given for University of Arizona Medical Center published by Wikipedia.
+
+Only remaining items:
+-verify distance education #'s from registrar's office
+-verify # of academic departments"
+University of British Columbia,2016-02-22,2016-02-22 18:18:42,charlene.ponto@ubc.ca,2.0,Pursuing,13.0,77.0,43509.0,13387.0,903.0,41365.0,10082.0,46405.0,5042.0,14115.0,9465.0,--,--,"Note figures apply for UBC Vancouver for the 2013-2014 reporting period, unless otherwise noted.  Enrollment, FTE, and headcount data is derived from the Office of Planning and Institutional Research (PAIR), unless otherwise noted. Residential student calculations refer to student housing managed by Student Housing and Hospitality Services (SHHS). Third-party tenants and privately-owned residences located on campus (including faculty/staff housing, market housing, and the UBC Hospital) are excluded, as per UBC’s STARS boundary. "
+"University of California, Berkeley",2016-03-23,2016-03-23 14:26:02,lmcneilly@berkeley.edu,2.0,Pursuing,14.0,170.0,36444.0,15841.0,--,26320.0,10145.0,35444.0,--,--,7876.0,--,--,Population numbers from 2014 or 2014-2015 year.  
+"University of California, Davis",2016-03-28,2016-03-28 16:31:42,cmkirk@ucdavis.edu,2.0,Pursuing,8.0,86.0,29146.0,9467.0,--,24523.0,5524.0,30047.0,78.0,10766.0,6778.0,2.0,--,--
+"University of California, Irvine",2016-03-23,2016-03-23 10:32:58,khaq@uci.edu,2.0,Pursuing,15.0,77.0,29005.0,8133.0,1129.0,25095.0,4282.0,29377.0,3059.0,9602.0,7740.0,1426.0,--,"The academic divisions referenced in this credit include:
+1. Claire Trevor School of the Arts
+2. Francisco J. Ayala School of Biological Sciences
+3. The Paul Merage School of Business
+4. School of Education
+5. The Henry Samueli School of Engineering
+6. School of Humanities
+7. Donald Bren School of Information and Computer Sciences
+8. School of Law
+9. School of Medicine
+10. School of Physical Sciences
+11. School of Social Ecology
+12. School of Social Sciences
+13. Program in Nursing Science
+14. Department of Pharmaceutical Sciences
+15. Program in Public Health
+
+The number of non-credit students include those who enrolled in the following in  UC Irvine Extension, Access UCI (concurrent enrollment without formal admission to the University), and the Osher Lifelong Learning Institute for retirees and semi-retirees."
+"University of California, Los Angeles",2016-03-24,2016-03-24 13:55:04,sustainability@ucla.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+"University of California, Merced",2016-02-25,2016-02-25 16:56:27,cmccormick3@ucmerced.edu,2.0,Pursuing,3.0,44.0,6431.0,1211.3,--,6237.0,448.0,6685.0,--,1454.0,2141.0,41.0,--,--
+"University of California, Riverside",2016-03-18,2016-03-18 16:23:34,john.cook@ucr.edu,2.0,Pursuing,7.0,55.0,21416.0,4074.65,--,18608.0,3043.0,21651.0,--,4435.0,6211.0,--,--,--
+"University of California, San Diego",2016-03-24,2016-03-24 18:51:48,smckinstry@ucsd.edu,2.0,Pursuing,7.0,112.0,28561.0,20412.0,--,22676.0,5618.0,28224.0,--,28071.0,11509.0,1686.0,563.0,"http://legacy-its.ucop.edu/uwnews/stat/statsum/fall2012/statsumm2012.pdf
+
+UC San Diego does not have the number of non-credit students "
+"University of California, Santa Barbara",2016-03-23,2016-03-23 16:14:59,mo@geog.ucsb.edu,2.0,Pursuing,5.0,57.0,21927.0,4394.0,398.0,18360.0,2829.0,21927.0,--,4394.0,8101.0,87.0,--,"Academic Divisions consist of:
+College of Engineering
+Gevirtz Graduate School of Education
+Donald Bren School of Environmental Science & Management
+College of Creative Studies
+College of Letters & Science, which includes the following divisions:
+    Humanities and Fine Arts
+    Mathematical, Life and Physical Sciences
+    Social Sciences
+For this org chart, please see: http://bap.ucsb.edu/IR/orgcharts/charts1314/01%202013-14%20EVC.pdf
+
+For Academic Departments, please see the following links:
+http://bap.ucsb.edu/IR/orgcharts/charts1314/2013-14%20College%20of%20Engineering.pdf
+This division of the campus identifies 6 academic departments: Chemical Engineering; Computer Engineering Program; Computer Science; Electrical & Computer Engineering; Materials; and Mechanical Engineering.
+
+http://bap.ucsb.edu/IR/orgcharts/charts1314/2013-14%20Humanities%20and%20Fine%20Arts.pdf
+In the College of Letters and Science Division of Humanities and Fine Arts, there are 20 academic departments: Art; Classics; Comparative Literature; East Asian Languages and Cultural Studies; English; Film and Media Studies; French and Italian; Germanic, Slavic and Semitic Studies; History; History of Art and Architecture; Latin American and Iberian Studies; Linguistics; Media Arts and Technology; Medieval Studies; Music; Philosophy; Religious Studies; Spanish and Portuguese; Theater and Dance; Writing Program.
+
+http://bap.ucsb.edu/IR/orgcharts/charts1314/2013-14%20MLPS.pdf
+In the College of Letters and Science Division of Mathematical, Life, and Physical Sciences, there are 13 academic departments: Bio-Molecular Science and Engineering; Chemistry and Biochemistry; Earth Science; Ecology, Evolution, and Marine Biology; Environmental Studies; Geography; Mathematics; Interdepartmental Graduate Program in Marine Science; Molecular, Cellular and Developmental Biology; Physics; Psychological and Brain Sciences; Speech and Hearing Sciences; Statistics and Applied Probability.
+
+http://bap.ucsb.edu/IR/orgcharts/charts1314/2013-14%20Social%20Sciences.pdf
+In the College of Letters and Science Division of Social Sciences, there are 12 academic departments: Anthropology; Asian American Studies; Black Studies; Chicana and Chicano Studies; Communication; Economics; Exercise & Sport Studies; Feminist Studies; Global & International Studies; Military Science; Political Science; Sociology.
+
+These departments, in combination with the Bren School, the College of Creative Studies, and the Gevirtz Graduate School of Education (who also act as academic departments), put the total count of academic departments at 54 for UC Santa Barbara. 
+
+
+
+
+
+
+
+ "
+"University of California, Santa Cruz",2016-03-23,2016-03-23 11:55:06,ekericks@ucsc.edu,2.0,Pursuing,5.0,39.0,17544.0,3549.0,--,17167.0,1908.0,18881.0,194.0,4134.0,8293.0,301.0,--,Employee FTE does not include student employees.
+University of Colorado Boulder,2016-03-03,2016-03-03 07:50:04,dave.newport@colorado.edu,2.0,Pursuing,11.0,50.0,26124.0,6212.0,1450.0,18142.0,5086.0,29278.0,572.0,7542.0,6014.0,15.0,--,"http://www.colorado.edu/academics/colleges-schools
+http://www.colorado.edu/academics/academic-departments
+https://housing.colorado.edu/resources-tips/administration
+http://www.colorado.edu/pba/facstaff/faccoll20137.htm
+http://www.colorado.edu/pba/records/fte/term1213.htm
+http://www.colorado.edu/pba/facstaff/
+http://www.colorado.edu/pba/records/snap/21272117/snappage13.htm
+http://highered.colorado.gov/Publications/Reports/Budget/FY2013/2013_FTE_AllTables.pdf"
+University of Colorado Colorado Springs,2016-03-23,2016-03-23 11:35:44,lkogan@uccs.edu,2.0,Pursuing,6.0,61.0,8667.0,1421.0,988.0,9220.0,2101.0,8888.0,332.0,1421.0,1040.0,2.0,--,--
+University of Connecticut,2016-03-25,2016-03-25 18:15:00,rich.miller@uconn.edu,2.0,Pursuing,14.0,137.0,21298.0,5902.79,312.0,23407.0,6945.0,23210.0,559.0,6235.0,12723.0,32.0,8.0,These numbers are all either from the Office of Institutional Research and Effectiveness (OIRE) or from the Registrar's report on enrollment
+University of Denver,2016-02-26,2016-02-26 12:38:09,chad.king@du.edu,2.0,Pursuing,13.0,64.0,10520.0,2343.0,667.0,5504.0,6261.0,11579.0,356.0,2929.0,2517.0,6.0,--,A number of employees are also taking classes as students.  These counts were removed from the enrollment counts to avoid double counting these employees.
+University of Florida,2016-03-23,2016-03-23 09:06:15,miwilliams@ufl.edu,2.0,Pursuing,16.0,166.0,46184.0,13728.71,7690.02,33168.0,16710.0,47877.0,2001.0,13945.0,8307.0,4.0,--,The hospital is not included within the boundary for this submission.
+University of Houston,2016-03-23,2016-03-23 17:21:43,smkelly5@central.uh.edu,2.0,Pursuing,12.0,54.0,39387.0,4944.0,967.0,31587.0,7953.0,30400.0,3245.0,7206.0,5783.0,15.0,--,--
+University of Illinois at Chicago,2016-02-12,2016-02-12 17:23:50,Cindy@uic.edu,2.0,Pursuing,15.0,99.0,27589.0,10924.0,--,16678.0,11197.0,27093.0,496.0,9898.0,3800.0,--,495.0,--
+"University of Illinois, Urbana-Champaign",2016-03-23,2016-03-23 09:19:27,spauldng@illinois.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+University of Louisville,2016-02-13,2016-02-13 03:02:57,justin.mog@louisville.edu,2.0,Pursuing,12.0,93.0,18779.0,6342.0,1525.0,15962.0,5600.0,20324.0,1281.0,6863.0,2639.0,--,--,"The annualized FTE of distance education students is for calendar year 2015 (spring 15, summer 15 and fall 15) and represents students taking only Distance Education courses during that time. Source: Kristen Brown, Asst Dir Dist & Continuing Educ, Delphi Center.
+
+Otherwise, these population figures reflect the 2014-15 academic year. Source: Office of Institutional Research & Planning.
+
+The number of residential students excludes those in affiliated private housing."
+"University of Maryland, College Park",2016-03-23,2016-03-23 15:56:14,sdeleon@umd.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+University of Massachusetts Amherst,2015-12-17,2015-12-17 14:45:30,esmall@facil.umass.edu,2.0,Pursuing,9.0,60.0,27106.9,6271.1,798.0,22134.0,6384.0,27520.0,998.0,6271.0,13086.0,--,--,--
+University of Massachusetts Lowell,2016-02-04,2016-02-04 11:33:11,Tyler_Arrigo@uml.edu,2.0,Pursuing,8.0,31.0,12884.0,1701.0,1300.0,9804.0,4198.0,15219.0,1713.0,1974.0,3645.0,9.0,--,--
+University of Michigan,2016-01-11,2016-01-11 15:37:43,ahorning@umich.edu,2.0,Pursuing,19.0,70.0,41942.0,37643.98,--,28395.0,15230.0,43625.0,45925.0,42110.0,10685.0,360.0,1059.0,"For non-credit students, we estimate an enrollment number of 25 students per class for the 1,837 continuing education opportunities reported for credit EN 11.  We are a large, decentralized University and an exact number is not easy to find. "
+"University of Minnesota, Duluth",2016-02-26,2016-02-26 14:48:13,mgranley@d.umn.edu,2.0,Pursuing,5.0,34.0,10146.0,1527.0,--,9987.0,1106.0,10190.0,903.0,1639.0,3005.0,--,--,--
+"University of Minnesota, Morris",2016-02-24,2016-02-24 11:29:00,good0044@morris.umn.edu,2.0,Pursuing,5.0,27.0,1859.0,383.0,--,1946.0,--,1846.0,--,383.0,934.0,7.0,--,--
+"University of Minnesota, Twin Cities",2016-03-03,2016-03-03 17:48:42,stennes@umn.edu,2.0,Pursuing,18.0,129.0,45291.65,18425.0,596.0,30135.0,16444.0,46579.0,4568.0,19633.0,6975.0,18.0,1932.0,--
+University of Missouri,2015-05-01,2015-05-01 15:33:58,raghavans@missouri.edu,2.0,Pursuing,19.0,97.0,30865.0,9071.9,1785.8,28858.0,9235.0,36376.0,54.0,10670.0,6893.0,18.0,5.0,--
+"University of Missouri, Kansas City",2016-02-17,2016-02-17 12:08:26,johnstonrk@umkc.edu,2.0,Pursuing,14.0,26.0,11397.0,3672.0,1584.0,8663.0,5499.0,15746.0,--,5573.0,1334.0,25.0,--,--
+University of Mount Union,2016-01-13,2016-01-13 13:05:36,mcclauca@mountunion.edu,2.0,Pursuing,1.0,24.0,2141.0,435.0,10.0,2096.0,91.0,2176.0,11.0,550.0,1558.0,8.0,--,--
+University of Nebraska - Lincoln,2016-02-25,2016-02-25 15:45:07,pshrestha3@unl.edu,2.0,Pursuing,9.0,182.0,22727.0,5335.96,1084.0,20182.0,4576.0,2324758.0,502.0,5680.0,6912.0,--,--,--
+University of Nebraska at Omaha,2016-02-19,2016-02-19 11:12:43,slburke@unomaha.edu,2.0,Pursuing,6.0,40.0,12481.0,2150.0,1385.0,12488.0,3028.0,14918.0,598.0,3597.0,2004.0,49.0,--,Number of residential employees includes RAs living on campus. Actual numbers were obtained from residence halls on the Dodge and Pacific campuses (46 student RAs). There are 3 live in Master's level professionals.
+University of New Hampshire,2016-03-25,2016-03-25 21:54:36,colleen.flaherty@unh.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,"STARS data only cover the UNH Durham campus and do not include UNH Manchester or UNH Law. Employee data are accurate as of January 2014.
+
+Employee Headcount vs. FTE: On an all-employee basis, FTE values aren’t consistent. For adjunct employees, the concept of an annualized FTE value doesn’t really apply as these are mostly part-time, hourly, and/or temporary employees whose % time fluctuates quite a bit over the course of a year. 
+
+Contacts:
+
+Mary Essley, Institutional Research, mary.essley@unh.edy
+Jennifer Biron, Office of the VP for Finance & Administration, jennifer.biron@unh.edu"
+University of North Carolina at Chapel Hill,2016-03-14,2016-03-14 14:58:01,cpshea@fac.unc.edu,2.0,Pursuing,15.0,72.0,26988.0,11779.0,1293.0,18350.0,10785.0,27843.0,1435.0,11964.0,8980.0,18.0,--,--
+"University of North Carolina, Greensboro",2016-01-26,2016-01-26 15:33:28,cgcarwei@uncg.edu,2.0,Pursuing,8.0,52.0,16351.7,2557.1,1401.0,14592.0,3482.0,17659.0,415.0,2734.0,4616.0,14.0,--,Information is for the 2013-14 academic year.
+"University of North Carolina, Wilmington",2016-02-29,2016-02-29 14:29:41,pohlmank@uncw.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+University of Oregon,2016-03-23,2016-03-23 11:03:08,smital@uoregon.edu,2.0,Pursuing,9.0,74.0,23455.0,4690.0,30.0,20538.0,3494.0,23449.0,583.0,5292.0,4125.0,13.0,--,"For Full-Time equivalent of distance education students: This is annualized FTE for students exclusively enrolled in distance ed. I think maybe reported any students taking distance ed courses in past.
+
+Number of residential students: 
+3-term average(Fall, Winter, Spring) paints most accurate picture of students living in housing during academic year. 4 term average gets pulled way down by fact that very few students here in summer but if you need 4 term average it is: 3025
+"
+University of Pittsburgh,2016-03-24,2016-03-24 12:59:38,lwzfm1@pitt.edu,2.0,Pursuing,19.0,121.0,26738.0,11529.0,439.0,18908.0,9741.0,28219.0,430.0,12245.0,7900.0,--,--,"Distance Education - The University does not calculate FTE status.  The figure included above is the total headcount of students enrolled exclusively in distance education courses.  The 439 students include 26 undergraduates and 413 graduate students.  In addition, at the time the data was recorded, 748 undergraduate and 651 graduate students were enrolled in some, but not all, distance education courses."
+University of Richmond,2016-02-17,2016-02-17 15:17:46,randreje@richmond.edu,2.0,Pursuing,5.0,30.0,3761.0,1647.0,--,3264.0,916.0,3972.0,208.0,1839.0,2700.0,9.0,--,Distance education includes only for-credit courses. We are not tracking non-credit course numbers.
+University of South Carolina,2016-02-29,2016-02-29 17:11:50,KOPPAN@mailbox.sc.edu,2.0,Pursuing,14.0,71.0,28022.0,4401.0,357.0,24863.0,7337.0,30199.0,16322.0,6469.0,12845.0,17.0,--,--
+University of South Florida,2016-02-26,2016-02-26 13:29:46,sustainability@usf.edu,2.0,Pursuing,14.0,107.0,28494.0,9881.0,5386.0,30324.0,9135.0,41888.0,1771.0,9881.0,5907.0,--,--,--
+University of South Florida St. Petersburg,2016-03-25,2016-03-25 23:00:35,davidv@mail.usf.edu,2.0,Pursuing,3.0,10.0,4080.12,690.95,1005.0,4179.0,571.0,4505.0,245.0,1051.0,469.67,14.67,--,--
+University of Tennessee at Knoxville,2016-02-23,2016-02-23 11:20:32,prestonj@utk.edu,2.0,Pursuing,11.0,92.0,25263.6,7333.0,673.0,21451.0,5959.0,27410.0,1087.0,9609.0,7213.0,--,581.0,--
+University of Texas Rio Grande Valley,2016-01-25,2016-01-25 15:03:00,Marianella.Franklin@utrgv.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,Data based on academic year beginning Sept 1 2014.
+University of Texas at Arlington,2016-02-26,2016-02-26 12:36:36,mtare@uta.edu,2.0,Pursuing,10.0,180.0,38000.0,5000.0,14770.0,25736.0,9134.0,38000.0,25000.0,5000.0,4000.0,10.0,40.0,--
+University of Texas at Austin,2016-03-21,2016-03-21 16:15:00,jim.walker@austin.utexas.edu,2.0,Pursuing,18.0,113.0,46486.0,12849.0,78.0,39979.0,12080.0,47706.0,657.0,14146.0,7327.0,16.0,--,The institution only reports headcounts of enrollment in distance education to iPEDS. Used number of students enrolled exclusively in distance education courses. 
+University of Texas at Dallas,2016-02-29,2016-02-29 18:13:10,thea.junt@utdallas.edu,2.0,Pursuing,7.0,78.0,16006.0,2843.0,--,14319.0,8776.0,18227.0,566.0,2843.0,5181.0,--,--,--
+University of Toledo,2016-03-25,2016-03-25 15:22:16,neil.tabor@utoledo.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+University of Virginia,2015-12-11,2015-12-11 14:05:54,art2k@Virginia.edu,2.0,Pursuing,11.0,72.0,22030.0,13864.2,--,14898.0,6340.0,20993.0,245.0,14364.0,6698.0,200.0,570.0,--
+University of Winnipeg,2016-01-13,2016-01-13 14:36:55,a.lajoie-omalley@uwinnipeg.ca,2.0,Pursuing,6.0,48.0,7061.0,810.0,--,9355.0,242.0,9597.0,--,810.0,396.0,--,--,--
+University of Wisconsin-Green Bay,2016-01-07,2016-01-07 17:22:54,fermanij@uwgb.edu,2.0,Pursuing,2.0,50.0,5051.0,683.0,535.0,6444.0,223.0,5935.0,732.0,561.0,1934.0,18.0,--,--
+University of Wisconsin-Milwaukee,2016-03-23,2016-03-23 09:34:51,knelson6@uwm.edu,2.0,Pursuing,14.0,75.0,22259.5,3477.0,--,22321.0,4835.0,27401.0,412.0,3949.0,4224.0,--,--,FTE of distance education students unknown at time of submission. 
+University of Wisconsin-Oshkosh,2016-03-25,2016-03-25 23:41:41,kermathb@uwosh.edu,2.0,Pursuing,4.0,47.0,11809.0,1494.0,--,13194.0,1217.0,11271.0,54.0,1494.0,3600.0,300.0,--,--
+University of Wisconsin-Platteville,2016-02-29,2016-02-29 14:16:11,seebotha@uwplatt.edu,2.0,Pursuing,3.0,64.0,7878.0,1266.0,116.7,8047.0,854.0,8649.0,252.0,1032.0,3250.0,--,--,"Source of employee headcount: https://www.wisconsin.edu/accountability/faculty-and-staff/
+Source of employee FTE: https://www.wisconsin.edu/download/publications(2)/Fact-Book.pdf
+
+The FTE is higher than the headcount, possibly because the FTE is a budgeted number while headcount is actual? I can't find an adequate explanation for this, or a better source of data."
+University of Wisconsin-Stevens Point,2016-01-28,2016-01-28 12:02:00,sjanowsk@uwsp.edu,2.0,Pursuing,4.0,43.0,8536.0,1219.0,53.0,8998.0,324.0,9322.0,14698.0,1352.0,3399.0,--,--,--
+University of Wisconsin-Stout,2016-03-25,2016-03-25 10:49:06,rykals@uwstout.edu,2.0,Pursuing,8.0,22.0,9371.0,1120.0,1787.0,8172.0,1114.0,9371.0,2940.0,1402.0,6129.0,10.0,--,"Academic Divisions:
+*College of Arts, Humanities and Social Sciences
+*College of Management
+*College of Education, Health and Human Sciences
+*College of Science, Technology, Engineering and Mathematics
+*School of Art and Design
+*School of Education
+*Graduate School
+*School of Hospitality Leadership"
+University of the Pacific,2016-03-23,2016-03-23 15:38:51,seller@pacific.edu,2.0,Pursuing,9.0,53.0,4803.0,1188.67,--,3735.0,781.0,5151.0,--,1296.0,1905.0,21.0,--,"Based on the definition of graduate students, our First Professional students are not accounted for - missing 635 students between the undergraduate and graduate data fields.  "
+Vanderbilt University,2016-03-21,2016-03-21 10:46:18,andrea.george@vanderbilt.edu,2.0,Pursuing,10.0,49.0,12321.0,24429.0,--,6835.0,5875.0,12710.0,--,25026.0,6048.0,19.0,1019.0,--
+Vassar College,2016-03-10,2016-03-10 19:47:30,alihall@vassar.edu,2.0,Pursuing,1.0,52.0,2385.0,1021.0,--,2406.0,--,2406.0,--,1099.0,2354.0,200.0,--,--
+Villanova University,2016-03-21,2016-03-21 13:11:38,liesel.schwarz@villanova.edu,2.0,Pursuing,6.0,63.0,9563.0,2439.0,815.0,7472.0,3144.0,10728.0,651.0,2743.0,4455.0,13.0,--,Employee head count includes full time faculty and FT staff only.
+Virginia Commonwealth University,2015-07-24,2015-07-24 09:33:18,eestanforth@vcu.edu,2.0,Pursuing,15.0,118.0,28715.0,7848.0,1444.0,23962.0,5483.0,31163.0,1873.0,11683.0,5857.0,12.0,--,--
+Warren Wilson College,2016-03-21,2016-03-21 15:30:10,aclimo@warren-wilson.edu,2.0,Pursuing,4.0,26.0,916.0,232.0,--,882.0,84.0,755.0,--,280.0,742.0,70.0,--,--
+Wartburg College,2015-04-27,2015-04-27 09:08:54,anne.duncan@wartburg.edu,2.0,Pursuing,3.0,14.0,1708.0,387.0,--,1747.0,--,1673.0,--,462.0,1376.0,6.0,--,Based on IPEDS most recent report (2013) or internal report covering the same period.
+"Washington State University, Pullman",2016-03-25,2016-03-25 18:59:24,slkane@wsu.edu,2.0,Pursuing,13.0,61.0,26543.3,6323.8,1729.0,24470.0,5216.0,29040.0,--,6751.0,6851.0,--,--,--
+Washington University in St. Louis,2016-02-29,2016-02-29 19:42:14,valko@wustl.edu,2.0,Not Pursuing,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Weber State University,2016-01-13,2016-01-13 14:17:12,jenniferbodine@weber.edu,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wellesley College,2016-01-12,2016-01-12 12:03:40,pwilloug@wellesley.edu,2.0,Pursuing,1.0,56.0,2177.0,1083.0,--,2323.0,--,2172.0,151.0,1083.0,2069.0,15.0,--,--
+Wells College,2016-02-26,2016-02-26 16:59:44,mbrown@wells.edu,2.0,Pursuing,3.0,18.0,543.0,175.0,--,550.0,--,550.0,--,202.0,510.0,1.0,--,--
+Western Michigan University,2016-02-24,2016-02-24 12:21:45,jeffrey.spoelstra@wmich.edu,2.0,Pursuing,7.0,54.0,20725.0,2898.0,2210.0,19198.0,5096.0,23349.0,945.0,3370.0,5598.0,12.0,--,--
+Western State Colorado University,2016-02-16,2016-02-16 19:23:19,bmoran@western.edu,2.0,Pursuing,3.0,10.0,2096.0,295.0,223.0,2341.0,290.0,2138.0,446.0,331.0,942.0,7.0,4.0,"#s are from 2015-2016
+
+While not a hospital, the Health Clinic is a satellite of  Gunnison Valley Health Family Medicine."
+Western Washington University,2016-02-29,2016-02-29 19:39:24,seth.vidana@wwu.edu,2.0,Pursuing,8.0,46.0,13050.0,1623.11,--,14152.0,908.0,14152.0,--,2364.0,13693.0,--,--,--
+Westminster College,2016-02-25,2016-02-25 14:15:52,kcase@westminstercollege.edu,2.0,Pursuing,4.0,61.0,2078.0,254.0,--,2233.0,758.0,2936.0,55.0,1026.0,697.0,6.0,--,"Westminster does not have a hospital within its institutional boundary, nor any distance education students. "
+Wilfrid Laurier University,2015-12-22,2015-12-22 11:30:59,cbennett@wlu.ca,2.0,In Progress,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Williams College,2016-03-23,2016-03-23 08:24:00,mae3@williams.edu,2.0,Pursuing,3.0,26.0,2079.0,1064.0,--,2045.0,54.0,2068.0,--,1232.0,1973.0,136.0,--,--
+Worcester Polytechnic Institute,2016-03-21,2016-03-21 14:52:51,ltomasz@wpi.edu,2.0,Pursuing,3.0,17.0,5582.0,950.0,238.0,4177.0,1962.0,6139.0,--,1050.0,2002.0,6.0,--,--

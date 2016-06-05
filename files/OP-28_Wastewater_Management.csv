@@ -1,11 +1,245 @@
 Institution,Date Submitted,Last Updated,Liason Email,Version,Status,Total wastewater discharged,Wastewater naturally handled,A brief description of the natural wastewater systems used to handle the institution’s wastewater,The website URL where information about the institution’s wastewater management practices is ...,Public Notes
-Bucknell University,2016-05-23,2016-05-23 16:29:40,delmogaz@bucknell.edu,2.0,Pursuing,74790200.0,--,,--,Total wastewater discharged is calculated for the 2013 fiscal year to keep it consistent with  and comparable to total water used.
-Florida Gulf Coast University,2016-05-23,2016-05-23 16:33:03,kleone@fgcu.edu,2.0,Pursuing,79130000.0,--,,--,Our total waste water discharged is equal to the amount of purchased (potable water) less the amount that went into our closed loop Chiller Plant.  
-Haverford College,2016-05-23,2016-05-23 16:39:22,ckent@haverford.edu,2.0,Not Pursuing,--,--,--,--,--
-Juniata College,2016-05-23,2016-05-23 16:48:46,yelnosr@juniata.edu,2.0,Not Pursuing,--,--,--,--,--
-Oregon State University,2016-05-23,2016-05-23 16:54:16,brandon.trelstad@oregonstate.edu,2.0,Not Pursuing,--,--,--,--,--
-Pittsburg State University,2016-05-23,2016-05-23 16:57:36,bpeery@pittstate.edu,2.0,Not Pursuing,--,--,--,--,--
-Slippery Rock University,2016-05-23,2016-05-23 17:00:30,paul.scanlon@sru.edu,2.0,Pursuing,49019000.0,1000.0,"Greywater from the Macoskey Center Harmony House is recovered and treated by a Wastewater Treatment Catchment System consisting of two separator tanks, and then reused via a distribution system that directs the waste water to an outdoor aquatic planting area and meadow.",--,--
-University of Texas Rio Grande Valley,2016-05-23,2016-05-23 17:03:47,Marianella.Franklin@utrgv.edu,2.0,Not Pursuing,--,--,--,--,--
-Weber State University,2016-05-23,2016-05-23 17:05:20,jenniferbodine@weber.edu,2.0,Not Pursuing,--,--,--,--,--
-Wilfrid Laurier University,2016-05-23,2016-05-23 17:07:53,cbennett@wlu.ca,2.0,Pursuing,--,--,,--,--
+Albion College,2016-02-25,2016-02-25 15:18:56,mfrever@albion.edu,2.0,Pursuing,--,--,The institution does not have a natural waste water system.,--,--
+Allegheny College,2016-03-29,2016-03-29 08:53:18,kelly.boulton@allegheny.edu,2.0,Pursuing,22721622.0,--,,--,--
+American University,2016-03-23,2016-03-23 14:21:55,meganzl@american.edu,2.0,Not Pursuing,--,--,--,--,--
+Appalachian State University,2016-02-01,2016-02-01 13:37:27,balllf@appstate.edu,2.0,Pursuing,4759114.0,--,N/A,--,All waste water is discharged into the Town of Boone Sewer/Sanitary system.
+Aquinas College,2016-03-21,2016-03-21 14:45:23,eimerjes@aquinas.edu,2.0,In Progress,--,--,--,--,--
+Arizona State University,2016-02-29,2016-02-29 15:08:38,corey.hawkey@asu.edu,2.0,Pursuing,832686161.0,--,,--,--
+Austin College,2016-02-29,2016-02-29 18:25:00,pschulze@austincollege.edu,2.0,Not Pursuing,--,--,--,--,--
+Babson College,2016-02-24,2016-02-24 08:38:02,dscott@babson.edu,2.0,In Progress,--,--,--,--,--
+Ball State University,2016-02-29,2016-02-29 08:26:22,rkoester@bsu.edu,2.0,Not Pursuing,--,--,--,--,--
+Baylor University,2016-02-26,2016-02-26 17:48:24,Smith_Getterman@baylor.edu,2.0,Not Pursuing,--,--,--,--,--
+Belmont University,2016-03-14,2016-03-14 08:38:23,mary.lucus@belmont.edu,2.0,Not Pursuing,--,--,--,--,--
+Beloit College,2016-03-23,2016-03-23 13:47:01,chapmanlr@beloit.edu,2.0,Not Pursuing,--,--,--,--,--
+Bentley University,2016-03-25,2016-03-25 16:00:04,nberland@bentley.edu,2.0,In Progress,--,--,--,--,--
+Berea College,2016-02-29,2016-02-29 10:22:33,paulyj@berea.edu,2.0,Not Pursuing,--,--,--,--,--
+Binghamton University,2016-03-20,2016-03-20 17:32:49,sdejohn@binghamton.edu,2.0,Not Pursuing,--,--,--,--,--
+Boston University,2016-03-03,2016-03-03 13:42:10,carlberg@bu.edu,2.0,Not Pursuing,--,--,--,--,--
+Bowdoin College,2016-02-25,2016-02-25 17:01:10,cpayson@bowdoin.edu,2.0,Not Pursuing,--,--,--,--,--
+Brown University,2016-03-23,2016-03-23 07:27:59,Ginger_Gritzo@Brown.edu,2.0,Not Pursuing,--,--,--,--,--
+Bryant University,2015-08-19,2015-08-19 14:50:40,gvalenti@bryant.edu,2.0,Not Pursuing,--,--,--,--,--
+Bucknell University,2016-01-19,2016-01-19 09:43:36,delmogaz@bucknell.edu,2.0,In Progress,--,--,--,--,Total wastewater discharged is calculated for the 2013 fiscal year to keep it consistent with  and comparable to total water used.
+California College of the Arts,2016-02-26,2016-02-26 17:11:58,nbartlett@cca.edu,2.0,Not Pursuing,--,--,--,--,--
+"California State University, Channel Islands",2016-03-14,2016-03-14 18:23:49,dan.wakelee@csuci.edu,2.0,Pursuing,46139724.0,--,"The use of bioswales around campus is one way in which CI utilizes natural wastewater systems. Along the middle of the new entrance road that was completed in 2012, a bioswale is used to save rain water for irrigation of this area, after the initial planting very minimal to no water has been used here for irrigation.  The restoration due to the construction of the entrance road has also led to a restored riparian area that collects and naturally filter rain water, there is also a natural wetland near this area that is also being restored and now has the ability to trap and filter water as well. We are also in the the experimental phase of using biofilters for our stormdrains on campus. ",--,--
+"California State University, Fullerton",2015-12-15,2015-12-15 13:31:32,mmoscol@fullerton.edu,2.0,Pursuing,62124790.0,--,"N/A- University wastewater is treated and taken off campus by a large Pipeline owned by Orange County Sanitation District located in Fountain Valley, Ca. ",http://www.ocsd.com/,--
+"California State University, Northridge",2016-02-25,2016-02-25 20:34:37,austin.eriksson@csun.edu,2.0,Pursuing,87961808.0,--,,--,--
+"California State University, Sacramento",2016-02-18,2016-02-18 12:17:15,kristina.cullen@csus.edu,2.0,Pursuing,68235844.74,--,"The university is working with the City of Sacramento to install natural mechanisms for the treatment of campus stormwater. A number of different mechanisms, such as bioretention planters, rain gardens and bioswales, are being utilized as part of a California Proposition 84 Grant Project.The purpose of the project is to remove contaminants while also recharging campus groundwater supply. Students will be involved during the monitoring phase and the project will become a showcase for stormwater treatment methodologies for the region.   ",http://www.owp.csus.edu/csu-lid/,--
+Calvin College,2016-03-11,2016-03-11 14:31:19,bhaney@calvin.edu,2.0,Pursuing,32115006.0,--,,--,--
+Carleton College,2016-02-26,2016-02-26 11:19:35,mlarson@carleton.edu,2.0,Pursuing,3551696.0,--,,--,--
+Carnegie Mellon University,2015-12-10,2015-12-10 11:04:14,bk11@andrew.cmu.edu,2.0,Pursuing,159704000.0,--,,--,--
+Case Western Reserve University,2016-03-25,2016-03-25 15:40:42,stephanie.corbett@case.edu,2.0,Not Pursuing,--,--,--,--,--
+Chatham University,2016-02-17,2016-02-17 13:05:02,MWhitney@chatham.edu,2.0,Pursuing,15907000.0,--,"Our Eden Hall natural wastewater system will be online beginning 2014-15 school year, with data available in late Fall Semester 2015.",http://www.chatham.edu/edenhall/,--
+Clark University,2016-02-24,2016-02-24 15:49:32,jisler@clarku.edu,2.0,Not Pursuing,--,--,--,--,--
+Clarkson University,2016-02-12,2016-02-12 07:37:53,sep@clarkson.edu,2.0,Pursuing,37000000.0,--,None,--,--
+Coastal Carolina University,2015-11-20,2015-11-20 15:31:21,sustain@coastal.edu,2.0,Pursuing,575000.0,--,,--,--
+Colby College,2016-01-12,2016-01-12 15:54:20,ksbright@colby.edu,2.0,Pursuing,104028896.0,--,"To treat all natural wastewater on campus, we have eight water runoff locations designed to treat rainwater and stormwater through low impact strategies.  These runoff locations are meant to remove any salt, sands, chemicals, and other sediments before the water is released to the Mesalonskee River.  Dale Deblois, the Environmental Program Manager at Colby, checks each of the eight runoff locations twice a year to monitor their operation and perform maintenance as required. On average, each system is cleaned out for precipitated salts, sands, and other sediments every five to ten years, or as required.  One of our major runoff treatment areas is behind the Colby Green, which contains three large ponds - more than enough to accommodate the current campus and any planned updates to our campus as outlined in our campus master plan. ",http://www.colby.edu/green/buildings/grounds/,--
+Colgate University,2016-02-28,2016-02-28 11:21:47,jpumilio@colgate.edu,2.0,Pursuing,34915451.0,--,We don't have any formal systems in place to naturally handle our wastewater.  ,--,--
+College of Charleston,2016-02-29,2016-02-29 16:52:58,fisherb@cofc.edu,2.0,Pursuing,117037867.0,--,,http://www.charlestonwater.com/water_trt_process.htm,--
+College of the Atlantic,2016-03-23,2016-03-23 11:15:20,ademeo@coa.edu,2.0,Not Pursuing,--,--,--,--,--
+Colorado College,2016-02-29,2016-02-29 16:10:05,Ian.Johnson@ColoradoCollege.edu,2.0,Pursuing,36810224.0,36810224.0,"Colorado College employs Colorado Springs Utilities (CSU) to handle its wastewater.  CSU exceeds its permit requirements to ensure that water is treated in a way that minimizes potential harm to local waterways. The facility utilizes ultraviolet (UV) light to disinfect wastewater, which eliminates bacteria and enhances the quality of wastewater discharge. The treatment plant has adapted these methods to replace its previous use of gaseous chlorine.  ",https://www.csu.org/CSUDocuments/waterbrochure.pdf,--
+Colorado State University,2015-12-16,2015-12-16 16:39:15,tonie.miyamoto@colostate.edu,2.0,Pursuing,321048835.0,205000.0,"The University Greenhouse bioremediation wetland was sized to filter up to 500 gallons per day . 
+
+At Aspen Hall, a greywater system collects & treats an average of 62 gallons per day.  This greywater is then sent to 11 first floor student room toilets for flushing.
+
+Note that under current Colorado water law, large greywater systems are not permitted.  The Aspen Hall system was permitted to allow for research in this area, but larger systems would require changes to “COLORADO REVISED STATUTE 37-87-101 (2014) TITLE 37. WATER AND IRRIGATION,  WATER RIGHTS AND IRRIGATION,  ARTICLE 87. RESERVOIRS”
+",http://sustainability.colostate.edu/newsroom/monumental_gray_water,--
+Columbia University,2016-01-13,2016-01-13 14:27:20,as3215@columbia.edu,2.0,Not Pursuing,--,--,--,--,--
+Connecticut College,2016-02-28,2016-02-28 16:33:08,jstoffel@conncoll.edu,2.0,Pursuing,4100000.0,--,,--,--
+Cornell University,2016-03-18,2016-03-18 08:39:42,cma18@cornell.edu,2.0,Pursuing,419261480.0,--,,http://www.cityofithaca.org/331/Wastewater-Treatment,"Cornell Wastewater is treated by the Ithaca Area Waste Water Treatment Facility (IAWWTF).  The IAWWTF was designed to remove phosphorus, biological oxygen demand and solids. The plant also removes most non-conventional pollutants as well. A federally mandated industrial pretreatment program prevents non-conventional pollutants from entering the wastewater system in amounts greater than the plant can treat.
+
+Wastewater treatment incorporates: preliminary screening, primary clarification, biological treatment, chemical phosphorus removal, chlorination for disinfection and de-chlorination. Anaerobic digestion is used to stabilize biosolids, which are then dewatered and land-filled. The anaerobic digestion process produces biogas (65-70 % methane) that is purified and then burned to generate electricity and hot water."
+Creighton University,2016-02-24,2016-02-24 14:08:49,mjduda@creighton.edu,2.0,Not Pursuing,--,--,--,--,--
+Denison University,2016-02-15,2016-02-15 15:55:38,kingje@denison.edu,2.0,Not Pursuing,--,--,--,--,--
+Dickinson College,2016-03-08,2016-03-08 10:06:46,welkerm@dickinson.edu,2.0,In Progress,--,--,--,--,--
+Drew University,2016-03-25,2016-03-25 16:12:09,swald@drew.edu,2.0,Not Pursuing,--,--,--,--,--
+Duke University,2016-02-26,2016-02-26 14:18:10,tavey.mcdaniel@duke.edu,2.0,Pursuing,228651147.0,--,,--,This data is from fiscal year 2014 report.
+Earlham College,2016-03-03,2016-03-03 10:49:58,butchli@earlham.edu,2.0,Not Pursuing,--,--,--,--,--
+Eastern Connecticut State University,2016-03-03,2016-03-03 15:13:22,stoddardl@easternct.edu,2.0,Not Pursuing,--,--,--,--,--
+Elon University,2016-01-14,2016-01-14 09:32:53,edurr@elon.edu,2.0,Not Pursuing,--,--,--,--,--
+Emory University,2016-02-29,2016-02-29 16:26:37,ciannat.howett@emory.edu,2.0,In Progress,--,--,--,--,--
+Endicott College,2016-03-01,2016-03-01 10:10:07,screight@endicott.edu,2.0,Not Pursuing,--,--,--,--,--
+Florida Gulf Coast University,2016-02-29,2016-02-29 17:56:22,kleone@fgcu.edu,2.0,In Progress,--,--,--,--,Our total waste water discharged is equal to the amount of purchased (potable water) less the amount that went into our closed loop Chiller Plant.  
+Fort Lewis College,2016-03-27,2016-03-27 16:00:36,kehilimire@fortlewis.edu,2.0,Not Pursuing,--,--,--,--,--
+Furman University,2016-02-22,2016-02-22 13:43:07,yancey.fouche@furman.edu,2.0,Pursuing,54915100.0,--,"One of our biggest projects is the closed-loop solar/aquatic waste water treatment system in the Charles Townes Science Center. The living machine uses natural processes to clean the building’s water. It’s then re-circulated into the building as grey water, which can be used for non-potable water demands like flushing toilets.",--,--
+George Washington University,2016-02-29,2016-02-29 13:04:30,shannonross@gwu.edu,2.0,Pursuing,226447283.0,1225000.0,"Most wastewater from GW's campuses is discharged to municipal sewer systems and subsequently to publically-owned treatment works (POTW) where it is treated to secondary or tertiary standards prior to release.  On GW's campuses storm and waste water treatment includes mostly primary treatment.  Waste water from most laboratories is neutralized before discharge.
+
+However, waste water from four kitchens (Marvin Center 1st and 2nd floors and two at Shenkman Hall in Gallery Grill) is treated biologically before discharge using a mixture of five types of aerobic (3) and anaerobic (2) bacteria.  The bacteria specifically target fats, oils, and greases (""FOG"") discharged from these kitchens prior to release to the sewer and POTW.  This treatment program was in place at three kitchens before this performance year, and it was added to a fourth kitchen (Marvin Center 2nd floor) during the performance year, which earned GW a ""Best Green Product of 2014"" certificate/award from the U.S. Green Building Council.
+
+CHEMSEARCH® developed state of the art DrainCobra™ and BIO-Amp™ Biological Delivery Systems to reduce and/or eliminate the accumulation of grease and organic buildup in drain lines and collection systems generated from food production, processing and preparation activities.  Inadequate systems often utilized by kitchen facilities cannot handle the daily accumulation of excess fats, oils, and grease which can result in sewer line back-ups, excess costs for cleaning and removal of waste and potential fines or surcharges from local authorities.",http://www.chemsearch.com/home.asp?language_id=4&country=IRE&language=&countryName=,--
+Georgia College & State University,2016-03-25,2016-03-25 19:09:41,doug.oetter@gcsu.edu,2.0,Not Pursuing,--,--,--,--,--
+Gonzaga University,2016-02-29,2016-02-29 13:09:24,simonj@gonzaga.edu,2.0,Pursuing,92470752.0,--,,--,--
+Green Mountain College,2016-03-21,2016-03-21 15:55:30,ihrker@greenmtn.edu,2.0,In Progress,--,--,--,--,--
+Guilford College,2016-03-08,2016-03-08 08:08:38,corrybc@guilford.edu,2.0,Not Pursuing,--,--,--,--,--
+Hampshire College,2016-03-23,2016-03-23 09:58:51,bhooker@hampshire.edu,2.0,Pursuing,16236088.0,--,"Hampshire College is connected to the municipal sewer system.  Wastewater is treated centrally via Anaerobic Digestion at the Amherst Wastewater Treatment Facility.
+
+See Innovation 3 for description of new building, which will treat waste water on site.  Construction to begin Fall 2014.  RW Kern Center is set to open in April 2016.
+",--,Hampshire College is connected to the municipal sewer system.  Wastewater is treated centrally via Anaerobic Digestion at the Amherst Wastewater Treatment Facility
+Harvard University,2016-02-29,2016-02-29 16:59:03,colin_durrant@harvard.edu,2.0,Not Pursuing,--,--,--,--,--
+Haverford College,2016-03-02,2016-03-02 12:02:10,ckent@haverford.edu,2.0,In Progress,--,--,--,--,--
+Hobart and William Smith Colleges,2016-03-18,2016-03-18 08:33:49,sustainability@hws.edu,2.0,In Progress,--,--,--,--,--
+Indiana State University,2016-03-29,2016-03-29 10:18:09,caroline.savage@indstate.edu,2.0,Not Pursuing,--,--,--,--,--
+Indiana University Bloomington,2016-03-23,2016-03-23 09:43:33,brownwm@indiana.edu,2.0,Pursuing,501197000.0,--,"All wastewater is discharged to City of Bloomington sanitary sewer system for treatment at one of their two wastewater treatment facilities. 
+
+However, IU Bloomington is taking a number of steps related to stormwater management and wetland restoration. Through Environmental Health and Safety, IU has had a Storm Water Quality and Management Program since 2005. The program has included students undertaking storm water monitoring, inspecting construction sites for best management practices, assisting regional campuses, and education through social media and public outreach.",http://ehs.iu.edu/topics/water-quality/storm-water/index.shtml,--
+Juniata College,2016-03-23,2016-03-23 08:09:17,yelnosr@juniata.edu,2.0,In Progress,--,--,--,--,--
+Kent State University,2016-03-25,2016-03-25 10:17:03,mknowle1@kent.edu,2.0,Not Pursuing,--,--,--,--,--
+Knox College,2016-03-23,2016-03-23 08:30:45,sustainability@knox.edu,2.0,Not Pursuing,--,--,--,--,--
+Lehigh University,2016-02-29,2016-02-29 00:26:21,sustainability@lehigh.edu,2.0,Pursuing,70749000.0,--,None,http://www.lehigh.edu/~infac/facserv.html,--
+Lewis & Clark College,2016-03-18,2016-03-18 17:08:11,advorak@lclark.edu,2.0,Not Pursuing,--,--,--,--,--
+Loyola Marymount University,2016-03-23,2016-03-23 14:02:54,ian.mckeown@lmu.edu,2.0,In Progress,--,--,--,--,"http://www.planning.lacity.org/eir/LoyolaMarymountUniv/DEIR/IV%20L%202%20Wastewater.pdf
+
+http://www.lasewers.org/treatment_plants/hyperion/technical.htm
+"
+Loyola University Chicago,2016-02-26,2016-02-26 17:50:35,adurnbaugh@luc.edu,2.0,Not Pursuing,--,--,--,--,--
+Macalester College,2016-01-06,2016-01-06 13:02:58,shansen2@macalester.edu,2.0,Not Pursuing,--,--,--,--,--
+Maryville College,2016-02-11,2016-02-11 15:37:42,adrienne.schwarte@maryvillecollege.edu,2.0,Not Pursuing,--,--,--,--,--
+Massachusetts Institute of Technology,2016-02-10,2016-02-10 11:45:11,slanou@mit.edu,2.0,Pursuing,266600478.0,--,"While many of MIT's LEED certified buildings include natural means of handling wastewater, these projects do not constitute a campus-wide wastewater system. However, MIT is working on producing a stormwater plan in the near future.",--,"266,600,478 gallons is the total sewer use for the main campus in FY2014."
+McMaster University,2016-02-19,2016-02-19 09:37:33,naeemsh@mcmaster.ca,2.0,Not Pursuing,--,--,--,--,--
+Miami University,2016-03-02,2016-03-02 14:17:55,kliney@miamioh.edu,2.0,Not Pursuing,--,--,--,--,--
+Michigan State University,2016-02-16,2016-02-16 09:19:25,erhardt7@msu.edu,2.0,Pursuing,795348000.0,--,"The City of East Lansing's Water Resource Recovery Facility provides wastewater treatment for Michigan State University. Pollutants are removed from the waste stream through a combination of biological, physical and chemical processes. More than 40 tons of bio-solids are disposed at the plant per day. Treatment processes in use at the plant include aerated grit removal, flow equalization, primary clarification, course bubble air diffusers to supply oxygen to the activated biological solids, secondary clarification, disinfection , rapid sand filtration, dechlorination and post filtration aeration.",https://www.cityofeastlansing.com/248/Water-Resource-Recovery-Facility,--
+Middlebury College,2016-03-25,2016-03-25 14:03:10,jmbyrne@middlebury.edu,2.0,Not Pursuing,--,--,--,--,--
+Mills College,2016-02-29,2016-02-29 23:53:52,ngaetjens@mills.edu,2.0,Not Pursuing,--,--,--,--,--
+Mount Holyoke College,2016-01-25,2016-01-25 09:10:11,neapple@mtholyoke.edu,2.0,Not Pursuing,--,--,--,--,--
+Muhlenberg College,2016-03-23,2016-03-23 10:27:30,kprocyk@muhlenberg.edu,2.0,In Progress,--,--,--,--,--
+Naropa University,2016-02-29,2016-02-29 17:16:49,acook@naropa.edu,2.0,Not Pursuing,--,--,--,--,--
+North Carolina State University,2016-01-28,2016-01-28 13:27:47,lindsay_batchelor@ncsu.edu,2.0,Not Pursuing,--,--,--,--,--
+Northern Arizona University,2016-02-23,2016-02-23 18:52:09,Ellen.Vaughan@nau.edu,2.0,Pursuing,113996334.0,--,,--,--
+Oberlin College,2016-03-21,2016-03-21 16:09:50,bflynn@oberlin.edu,2.0,Pursuing,48204445.09,56984.0,"The Living Machine at the Adam Joseph Lewis Center (AJLC) handles the waste water for that building and recycles it for use in the building as grey water. There is also a constructed wetland on site.
+
+More on the Living Machine can be found here: http://www.oberlin.edu/newserv/stories/living_machine_release.html",http://new.oberlin.edu/office/facilities-operations/services/grounds-and-athletics-maintenance/,"Our total water treated on-site for 2015 was 56,984 gallons. This includes all new city water plus recycled Living Machine water.
+
+According to the Building Manager, we do not release water to local water bodies due to our permitting level. The water is treated to a tertiary level, I believe, however it gets recycled as grey water within our own system, not to a water body.  Should our Living Machine ever become overwhelmed (borderline impossible due to its capacity) it discharges via an overflow to the city's sewage treatment system.
+"
+Ohio University,2016-03-23,2016-03-23 07:58:14,goetze@ohio.edu,2.0,In Progress,--,--,--,--,"We currently do not have a value for the total wastewater discharged.  The university uses City of Athens for its potable water supply and its wastewater treatment.  The city does not meter wastewater discharged, only potable water supplied.  To our knowledge, there are no natural treatments for wastewater discharged from the university."
+Onondaga Community College,2016-02-26,2016-02-26 16:34:02,vormwals@sunyocc.edu,2.0,Not Pursuing,--,--,--,--,--
+Oregon State University,2016-03-30,2016-03-30 14:50:46,brandon.trelstad@oregonstate.edu,2.0,In Progress,--,--,--,--,--
+Pennsylvania State University,2016-03-21,2016-03-21 11:48:51,mme2@psu.edu,2.0,In Progress,--,--,--,--,Wastewater total derived from monthly MGD values reported in annual Chapter 94 report. 
+Pittsburg State University,2016-03-24,2016-03-24 14:48:07,bpeery@pittstate.edu,2.0,In Progress,--,--,--,--,--
+Pitzer College,2016-02-22,2016-02-22 14:38:53,warren_biggins@pitzer.edu,2.0,Pursuing,10991965.0,--,,--,"Pitzer does not currently have the water metering technology installed to accurately measure wastewater flows.  In the College's first GHG emissions report, a consultant worked with students and the Facilities staff to arrive at a wastewater generation rate of 42%.  Using that rate as a best estimate, the amount of water purchased was multiplied by 0.42 to arrive at the number reported above.  
+Pitzer is currently researching water metering technology options.  "
+Plymouth State University,2016-02-29,2016-02-29 11:42:38,bweisenhauer@plymouth.edu,2.0,Pursuing,28969095.0,--,none,--,--
+Pomona College,2016-01-11,2016-01-11 17:28:37,alexis.reyes@pomona.edu,2.0,Not Pursuing,--,--,--,--,--
+Portland State University,2016-03-24,2016-03-24 17:20:39,jenny.mcnamara@pdx.edu,2.0,Pursuing,82098236.0,--,"There are various stormwater management systems on campus, but we have no natural handling of our sewer/wastewater at this time. ",--,--
+Princeton University,2016-01-20,2016-01-20 17:01:03,kristiw@princeton.edu,2.0,Pursuing,165112100.0,--,,--,--
+Principia College,2016-01-30,2016-01-30 21:54:35,karen.eckert@principia.edu,2.0,Pursuing,16102000.0,--,"(none)
+""Natural wastewater systems use plants and bacteria to break down and neutralize pollutants in wastewater and have minimal dependence on mechanical elements. Natural systems minimize the use of chemicals and require little energy to operate. Examples include constructed treatment wetlands, Living Machines and other technologies that treat wastewater by mimicking the biological, chemical and physical processes occurring in natural wetlands.""",--,--
+Purdue University,2016-02-26,2016-02-26 16:45:17,mgulich@purdue.edu,2.0,Not Pursuing,--,--,--,--,--
+Randolph College,2016-02-26,2016-02-26 14:25:28,llemaitre@randolphcollege.edu,2.0,Not Pursuing,--,--,--,--,--
+Rice University,2016-03-25,2016-03-25 16:32:35,rrj@rice.edu,2.0,Not Pursuing,--,--,--,--,--
+Rochester Institute of Technology,2016-03-25,2016-03-25 15:53:38,elcpro@rit.edu,2.0,Not Pursuing,--,--,--,--,--
+Saint Louis University,2016-03-24,2016-03-24 17:17:32,bverhof1@slu.edu,2.0,Not Pursuing,--,--,--,--,"Although Saint Louis University does not have a plan developed regarding wastewater, the University focuses on the ability to reduce the amount of water consumption through other water reduction initiatives.  "
+San Francisco State University,2016-03-25,2016-03-25 17:34:20,kordesch@sfsu.edu,2.0,Not Pursuing,--,--,--,--,--
+Santa Clara University,2016-02-26,2016-02-26 20:44:54,lkalkbrenner@scu.edu,2.0,In Progress,--,--,--,--,--
+Seattle University,2016-03-23,2016-03-23 11:53:35,thompson@seattleu.edu,2.0,Pursuing,33354140.0,--,,--,--
+Sewanee - The University of the South,2016-02-10,2016-02-10 09:31:41,mpate@sewanee.edu,2.0,Pursuing,116671000.0,116671000.0,"Sewanee uses the Sewanee Utility District (SUD) to treat and handle its waste water. Since the utility district covers the entirety of campus, the University elects one faculty or staff to sit on the board. This member currently is Ken Smith, Forestry professor.
+SUD uses an entirely natural process to both handle, treat, and then discharge its wastewater. All wastewater enters the SUD treatment plant, and is treated without chemicals using open tanks with active microbes. This water moves through various ponds as it moves through the treatment process. Once the treated water is clean, it is then returned to the plateau by being sprayed into the surrounding forests. As such, SUD has a Biological and Natural Systems Discharge Permit through the State of Tennessee.",http://www.sewaneeutility.org/about%20SUD.htm,--
+Sheridan Institute of Technology and Advanced Learning,2016-01-15,2016-01-15 16:30:21,andre.plante@sheridancollege.ca,2.0,Not Pursuing,--,--,--,--,--
+Simon Fraser University,2016-02-08,2016-02-08 23:41:50,erica_lay@sfu.ca,2.0,Not Pursuing,--,--,--,--,--
+Slippery Rock University,2016-02-29,2016-02-29 14:19:00,paul.scanlon@sru.edu,2.0,In Progress,--,--,--,--,--
+Smith College,2016-03-23,2016-03-23 08:30:14,dweisbor@smith.edu,2.0,Not Pursuing,--,--,--,--,Smith College's wastewater is processed by the City of Northampton Waste Water Treatment Plant.
+Southern Connecticut State University,2016-03-24,2016-03-24 14:21:30,huminskis1@southernct.edu,2.0,Not Pursuing,--,--,--,--,--
+Southern Illinois University Carbondale,2016-03-25,2016-03-25 17:22:45,glkurtzhals@siu.edu,2.0,Not Pursuing,--,--,--,--,--
+Southern Oregon University,2016-03-23,2016-03-23 15:39:32,beigelcod@sou.edu,2.0,Not Pursuing,--,--,--,--,--
+Spelman College,2016-02-15,2016-02-15 08:21:36,aefrazier@spelman.edu,2.0,Not Pursuing,--,--,--,--,--
+St. John's University,2016-03-02,2016-03-02 16:31:47,goldsmit@stjohns.edu,2.0,Pursuing,138434604.0,--,"To comply with NY regulations, St. John's University employs a water retention bin to slowly release waste water from the campus into the NYC sewer system.  The University also uses permeable materials for its grounds to reduce excessive run off into the sewer systems.",--,--
+Stanford University,2016-03-23,2016-03-23 01:13:15,mbhafer@stanford.edu,2.0,Not Pursuing,--,--,--,--,--
+State University of New York College of Environmental Science and Forestry,2016-03-23,2016-03-23 01:50:35,malichte@esf.edu,2.0,Not Pursuing,--,--,--,--,--
+State University of New York at Cortland,2015-10-09,2015-10-09 13:16:02,Beth.Klein@cortland.edu,2.0,Pursuing,48980700.0,626997.0,The Raquette Lake satellite campus has a leach field and waste water treatment facility that processes all of the wastewater for this portion of the campus.  ,--,--
+State University of New York at Geneseo,2016-03-24,2016-03-24 11:00:21,dezarn@geneseo.edu,2.0,Not Pursuing,--,--,--,--,--
+State University of New York at New Paltz,2016-01-11,2016-01-11 09:08:30,mittenl@newpaltz.edu,2.0,Not Pursuing,--,--,--,--,--
+Sterling College,2016-01-28,2016-01-28 10:04:23,cfeuerstein@sterlingcollege.edu,2.0,Pursuing,1443000.0,--,,--,--
+Stevens Institute of Technology,2016-03-24,2016-03-24 15:22:01,gotham360@stevens.edu,2.0,In Progress,--,--,--,--,--
+Syracuse University,2016-03-25,2016-03-25 15:33:54,macadwel@syr.edu,2.0,Not Pursuing,--,--,--,--,--
+Temple University,2016-02-09,2016-02-09 14:47:17,kathleen.grady@temple.edu,2.0,Not Pursuing,--,--,--,--,--
+Texas A&M University,2016-01-15,2016-01-15 14:24:58,kwellman@tamu.edu,2.0,Pursuing,46388000.0,594420.0,Texas A&M University's Riverside Campus uses an oxidation pond method to treat the wastewater generated this campus.  The ponds rely exclusively on detention time to break the materials down before they are discharged to an unnamed tributary on the south end of the plant.,http://utilities.tamu.edu/,--
+Texas Tech University,2016-03-25,2016-03-25 15:47:50,carey.hewett@ttu.edu,2.0,Not Pursuing,--,--,--,--,--
+The Ohio State University,2016-01-26,2016-01-26 15:46:57,dial.15@osu.edu,2.0,Not Pursuing,--,--,--,--,--
+Tufts University,2016-02-25,2016-02-25 15:40:32,tina.woolston@tufts.edu,2.0,Pursuing,121867438.0,--,,http://publicsafety.tufts.edu/ehs/environmental-management/wastewater-management/,--
+Tulane University,2016-02-04,2016-02-04 11:04:01,ldavey@tulane.edu,2.0,Not Pursuing,--,--,--,--,--
+Unity College,2016-03-25,2016-03-25 15:25:02,JdeHart@unity.edu,2.0,In Progress,--,--,--,--,--
+University at Albany,2016-02-23,2016-02-23 17:54:16,mmallia@albany.edu,2.0,Pursuing,271273000.0,--,,--,--
+University at Buffalo,2016-01-19,2016-01-19 10:15:52,jlk47@buffalo.edu,2.0,Pursuing,342428000.0,--,,--,--
+University of Arizona,2016-03-25,2016-03-25 15:31:58,bchampion@email.arizona.edu,2.0,Not Pursuing,--,--,--,--,"The UA does have information pertaining to wastewater use, but the 2012 UA AASHE STARS Report and the data that it underlies it do not have this information included. Wastewater will be reported on in the next UA AASHE STARS Report."
+University of British Columbia,2016-02-22,2016-02-22 18:18:39,charlene.ponto@ubc.ca,2.0,Pursuing,806266185.0,--,,--,"UBC’s wastewater is handled by the Metro Vancouver regional wastewater treatment infrastructure. The Centre for Interactive Research in Sustainability (CIRS) building includes an on-site living machine type wastewater treatment system that incorporates natural plant systems, ; however this system was in an extended commissioning phase during the performance year. 
+
+The UBC Sewer Discharge Monitoring Program ensures compliance with bylaw requirements. Waste water discharges are sampled twice a year from monitoring points on South West Marine Drive and North West Marine Drive. The samples are tested for organic load, hardness, pH, various metals and radioactivity. The results are compared with the Metro Vancouver Sewer Use Bylaws to ensure compliance. All UBC Vancouver waste water discharges tested so far have been within the regulatory limits. More information is available online at: http://riskmanagement.ubc.ca/environment/sanitary-sewers. 
+"
+"University of California, Berkeley",2016-03-23,2016-03-23 14:26:14,lmcneilly@berkeley.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of California, Davis",2016-03-28,2016-03-28 16:31:26,cmkirk@ucdavis.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of California, Irvine",2016-03-23,2016-03-23 10:32:41,khaq@uci.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of California, Los Angeles",2016-03-24,2016-03-24 13:55:14,sustainability@ucla.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of California, Merced",2016-02-25,2016-02-25 16:56:24,cmccormick3@ucmerced.edu,2.0,Pursuing,38306310.0,--,,--,--
+"University of California, Riverside",2016-03-18,2016-03-18 16:23:31,john.cook@ucr.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of California, San Diego",2016-03-24,2016-03-24 18:51:33,smckinstry@ucsd.edu,2.0,Pursuing,375962888.0,--,"UC San Diego has a pilot program for reclaiming and recycling wastewater on site.  Wastewater from showers and lavatories is filtered and treated.  The water is collected in an underground tank and used for below grade drip irrigation for all planting areas on the site as well as for the green roof.  An estimated 365,000 gallons per year is recycled at this pilot project.",http://blink.ucsd.edu/safety/environment/outdoor/SSMP.html,"Wastewater naturally handled: Campus wastewater is treated at the City of San Diego’s Point Loma Wastewater Treatment Plant
+
+
+
+http://blink.ucsd.edu/safety/research-lab/hazardous-waste/sewer.html"
+"University of California, Santa Barbara",2016-03-23,2016-03-23 16:14:42,mo@geog.ucsb.edu,2.0,Pursuing,194593230.0,--,,--,--
+"University of California, Santa Cruz",2016-03-23,2016-03-23 11:54:49,ekericks@ucsc.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Colorado Boulder,2016-03-03,2016-03-03 07:50:01,dave.newport@colorado.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Colorado Colorado Springs,2016-03-23,2016-03-23 11:35:27,lkogan@uccs.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Connecticut,2016-03-25,2016-03-25 18:15:10,rich.miller@uconn.edu,2.0,Pursuing,294170000.0,--,,--,"The UConn Storrs and Depot campuses are served by the University’s Water Pollution Control Facility. Only rain water and snow melt can be discharged to surface water or the storm sewer without a permit. No process wastewater, including wash water and utility pit pump-outs, can be discharged to surface water or the storm sewer without a permit. We do not use natural wastewater systems such as constructed wetlands and Living Machines. "
+University of Denver,2016-02-26,2016-02-26 12:38:06,chad.king@du.edu,2.0,Pursuing,56604410.0,--,,--,--
+University of Florida,2016-03-23,2016-03-23 09:05:58,miwilliams@ufl.edu,2.0,Pursuing,616360000.0,--,,http://www.ppd.ufl.edu/departments/wrf_home.asp,--
+University of Houston,2016-03-23,2016-03-23 17:21:26,smkelly5@central.uh.edu,2.0,Not Pursuing,--,--,--,--,The wastewater on campus is managed by the City of Houston. Accurate data is not captured. A wastewater remediation pilot project is about to launch in Cougar Woods Dining Hall through Chemsearch FE BioAmp. 
+University of Illinois at Chicago,2016-02-12,2016-02-12 17:23:47,Cindy@uic.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of Illinois, Urbana-Champaign",2016-03-23,2016-03-23 09:19:11,spauldng@illinois.edu,2.0,In Progress,--,--,--,--,--
+University of Louisville,2016-02-13,2016-02-13 03:02:55,justin.mog@louisville.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of Maryland, College Park",2016-03-23,2016-03-23 15:55:57,sdeleon@umd.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Massachusetts Amherst,2015-12-17,2015-12-17 14:45:32,esmall@facil.umass.edu,2.0,Pursuing,48716350.0,--,The University does not currently use natural wastewater systems to handle wastewater.,--,--
+University of Massachusetts Lowell,2016-02-04,2016-02-04 11:33:08,Tyler_Arrigo@uml.edu,2.0,Pursuing,105486.0,--,NA,--,This credit is not applicable for UMass Lowell since the institution discharges wastewater to the Lowell Regional Wastewater Utility 
+University of Michigan,2016-01-11,2016-01-11 15:37:41,ahorning@umich.edu,2.0,Pursuing,947875174.0,--,NA,--,--
+"University of Minnesota, Duluth",2016-02-26,2016-02-26 14:48:16,mgranley@d.umn.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of Minnesota, Morris",2016-02-24,2016-02-24 11:28:57,good0044@morris.umn.edu,2.0,Not Pursuing,--,--,--,--,--
+"University of Minnesota, Twin Cities",2016-03-03,2016-03-03 17:48:39,stennes@umn.edu,2.0,Pursuing,344210152.0,--,We do not have natural wastewater systems on campus. ,http://policy.umn.edu/operations/environment,--
+University of Missouri,2015-05-01,2015-05-01 15:34:06,raghavans@missouri.edu,2.0,Pursuing,373801219.0,373801219.0,"All campus wastewater, grey and black, is directed into the City of Columbia’s Municipal Sewer system. The City’s Sewer system is routed to the wastewater treatment plant (WWTP) west of the City of Columbia, and is treated there. The WWTP’s secondary effluent is released into constructed wetlands prior to being released into the Eagle Bluffs Conservation area. The effluent from mechanical plant is discharged into constructed wetlands where it receives additional secondary treatment then goes into the Eagle Bluffs Conservation area.  The plant provides both primary and secondary  treatments. The City of Columbia and the Department of Conservation entered into a cooperative agreement that allows the Department to use treated wastewater from the city as a primary water source for the wetlands.",https://www.gocolumbiamo.com/PublicWorks/Sewer/wwtppg_4.php,--
+"University of Missouri, Kansas City",2016-02-17,2016-02-17 12:08:23,johnstonrk@umkc.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Mount Union,2016-01-13,2016-01-13 13:05:33,mcclauca@mountunion.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Nebraska - Lincoln,2016-02-25,2016-02-25 15:45:05,pshrestha3@unl.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Nebraska at Omaha,2016-02-19,2016-02-19 11:12:40,slburke@unomaha.edu,2.0,Not Pursuing,--,--,--,--,--
+University of New Hampshire,2016-03-25,2016-03-25 21:54:46,colleen.flaherty@unh.edu,2.0,Pursuing,114622998.0,--,UNH doesn't use natural wastewater systems. ,--,UNH doesn't separate out wastewater from potable water usage data.
+University of North Carolina at Chapel Hill,2016-03-14,2016-03-14 14:58:04,cpshea@fac.unc.edu,2.0,In Progress,--,--,--,--,--
+"University of North Carolina, Greensboro",2016-01-26,2016-01-26 15:33:26,cgcarwei@uncg.edu,2.0,Pursuing,84793700.0,--,none,--,--
+"University of North Carolina, Wilmington",2016-02-29,2016-02-29 14:29:38,pohlmank@uncw.edu,2.0,Pursuing,11000000.0,11000000.0,"The anaerobic digestion process is utilized at CFPUA’s NSWWTP and SSWWTP in order to
+provide the required pathogen reduction and vector attraction reduction. The stabilized and dewatered product which results is currently classified as Class B and is land applied onto permitted sites throughout the region. During the anaerobic digestion process each pound of volatile solids destroyed typically yields about 12 - 18 cubic feet of digester gas. Currently, part of the gas production is used to mix and heat the anaerobic digestion process. The excess remaining is wasted by flaring/burning it off.
+In a healthy, well-functioning anaerobic digestion process, under optimum conditions digester gasis composed of about 2/3 methane and 1/3 carbon dioxide.",http://www.cfpua.org/index.aspx?nid=360,--
+University of Oregon,2016-03-23,2016-03-23 11:02:51,smital@uoregon.edu,2.0,In Progress,--,--,--,--,--
+University of Pittsburgh,2016-03-24,2016-03-24 12:59:49,lwzfm1@pitt.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Richmond,2016-02-17,2016-02-17 15:17:43,randreje@richmond.edu,2.0,Not Pursuing,--,--,--,--,--
+University of South Carolina,2016-02-29,2016-02-29 17:11:47,KOPPAN@mailbox.sc.edu,2.0,Pursuing,397516302.98,--,,http://www.facilities.sc.edu/,--
+University of South Florida,2016-02-26,2016-02-26 13:29:43,sustainability@usf.edu,2.0,Not Pursuing,--,--,--,--,--
+University of South Florida St. Petersburg,2016-03-25,2016-03-25 23:00:20,davidv@mail.usf.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Tennessee at Knoxville,2016-02-23,2016-02-23 11:20:30,prestonj@utk.edu,2.0,Pursuing,50063550.0,--,,--,This number includes all of UT campus as well as the JARTU and Cherokee Farm campus.
+University of Texas Rio Grande Valley,2016-01-25,2016-01-25 15:02:58,Marianella.Franklin@utrgv.edu,2.0,In Progress,--,--,--,--,--
+University of Texas at Arlington,2016-02-26,2016-02-26 12:36:34,mtare@uta.edu,2.0,Pursuing,190582000.0,--,All wastewater is discharged through the Cities of Arlington and Fort Worth's sanitary sewer systems,--,--
+University of Texas at Austin,2016-03-21,2016-03-21 16:14:57,jim.walker@austin.utexas.edu,2.0,Pursuing,308912861.0,--,No natural wastewater systems currently exist on campus. ,--,--
+University of Texas at Dallas,2016-02-29,2016-02-29 18:13:07,thea.junt@utdallas.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Toledo,2016-03-25,2016-03-25 15:22:00,neil.tabor@utoledo.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Virginia,2015-12-11,2015-12-11 14:05:51,art2k@Virginia.edu,2.0,Pursuing,302804000.0,--,None yet.,--,--
+University of Winnipeg,2016-01-13,2016-01-13 14:36:52,a.lajoie-omalley@uwinnipeg.ca,2.0,Not Pursuing,--,--,--,--,--
+University of Wisconsin-Green Bay,2016-01-07,2016-01-07 17:22:51,fermanij@uwgb.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Wisconsin-Milwaukee,2016-03-23,2016-03-23 09:34:34,knelson6@uwm.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Wisconsin-Oshkosh,2016-03-25,2016-03-25 23:41:26,kermathb@uwosh.edu,2.0,Pursuing,44220835.0,44220835.0,The City of Oshkosh wastewater treatment plant uses a 3 step living system to cleanse wastewater prior to release into the Fox River. Primary treatment consists of settling out solids from liquids in large tanks where the solids can be removed for separate treatment. Secondary treatment removes the remaining solids and dissolved materials with the assistance of bacterial and protozoan microorganisms. The microorganisms break down the solids for a food source. This process releases methane that is captured for biogas use and breaks down materials harmful to natural water bodies. Final treatment disinfects the water through the use of chlorine or ultraviolet light prior to release. ,http://www.ci.oshkosh.wi.us/Public_Works/assets/pdf/Go_with_the_Flow.pdf,--
+University of Wisconsin-Platteville,2016-02-29,2016-02-29 14:16:08,seebotha@uwplatt.edu,2.0,Not Pursuing,--,--,--,--,--
+University of Wisconsin-Stevens Point,2016-01-28,2016-01-28 12:01:57,sjanowsk@uwsp.edu,2.0,Pursuing,6264207.0,--,,--,--
+University of Wisconsin-Stout,2016-03-25,2016-03-25 10:48:50,rykals@uwstout.edu,2.0,Pursuing,40237601.0,--,,--,*Data from City of Menomonie Water Utility. 
+University of the Pacific,2016-03-23,2016-03-23 15:39:02,seller@pacific.edu,2.0,Not Pursuing,--,--,--,--,Waste water not metered.
+Vanderbilt University,2016-03-21,2016-03-21 10:46:15,andrea.george@vanderbilt.edu,2.0,Pursuing,471700000.0,--,NA,--,--
+Vassar College,2016-03-10,2016-03-10 19:47:32,alihall@vassar.edu,2.0,Pursuing,401023.0,--,We currently do not have any systems in place for handling wastewater naturally. ,--,--
+Villanova University,2016-03-21,2016-03-21 13:11:35,liesel.schwarz@villanova.edu,2.0,Not Pursuing,--,--,--,--,--
+Virginia Commonwealth University,2015-07-24,2015-07-24 09:33:15,eestanforth@vcu.edu,2.0,Pursuing,304140470.0,--,VCU does not track the gallons of water from these locations. VCU has added Bayscaping at the Trani Life Sciene Center to reduce the quantity of stormwater runoff and filter pollutants.Grace E Harris Hall installed a rain garden to reduce stormwater runoff in the James River watershed. The Pollak Buikding Green Roof reduces stormwater volumes and flow-rates.,http://www.vcugoesgreen.vcu.edu/,--
+Warren Wilson College,2016-03-21,2016-03-21 15:30:07,aclimo@warren-wilson.edu,2.0,In Progress,--,--,--,--,--
+Wartburg College,2015-04-27,2015-04-27 09:08:42,anne.duncan@wartburg.edu,2.0,Not Pursuing,--,--,--,--,--
+"Washington State University, Pullman",2016-03-25,2016-03-25 18:59:35,slkane@wsu.edu,2.0,Pursuing,499504000.0,--,All water is discharged to the City of Pullman POTW.,http://ehs.wsu.edu/ph/WaterPolluteWetlands.html,--
+Washington University in St. Louis,2016-02-29,2016-02-29 19:42:11,valko@wustl.edu,2.0,Not Pursuing,--,--,--,--,--
+Weber State University,2016-01-13,2016-01-13 14:17:09,jenniferbodine@weber.edu,2.0,In Progress,--,--,--,--,--
+Wellesley College,2016-01-12,2016-01-12 12:03:38,pwilloug@wellesley.edu,2.0,Not Pursuing,--,--,--,--,--
+Wells College,2016-02-26,2016-02-26 16:59:41,mbrown@wells.edu,2.0,Pursuing,12700000.0,--,We not currently have any natural wastewater systems in place. ,--,--
+Western Michigan University,2016-02-24,2016-02-24 12:21:42,jeffrey.spoelstra@wmich.edu,2.0,Not Pursuing,--,--,--,--,--
+Western State Colorado University,2016-02-16,2016-02-16 19:23:16,bmoran@western.edu,2.0,Not Pursuing,--,--,--,--,--
+Western Washington University,2016-02-29,2016-02-29 19:39:21,seth.vidana@wwu.edu,2.0,Not Pursuing,--,--,--,--,--
+Westminster College,2016-02-25,2016-02-25 14:15:49,kcase@westminstercollege.edu,2.0,Not Pursuing,--,--,--,--,--
+Wilfrid Laurier University,2015-12-22,2015-12-22 11:30:56,cbennett@wlu.ca,2.0,In Progress,--,--,--,--,--
+Williams College,2016-03-23,2016-03-23 08:23:43,mae3@williams.edu,2.0,Not Pursuing,--,--,--,--,--
+Worcester Polytechnic Institute,2016-03-21,2016-03-21 14:52:48,ltomasz@wpi.edu,2.0,In Progress,--,--,--,--,--

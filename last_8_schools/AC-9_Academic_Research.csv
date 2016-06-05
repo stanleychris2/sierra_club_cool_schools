@@ -1,0 +1,871 @@
+Institution,Date Submitted,Last Updated,Liason Email,Version,Status,Number of the institution’s faculty and/or staff engaged in sustainability research,Total number of the institution’s faculty and/or staff engaged in research,Number of academic departments (or the equivalent) that include at least one faculty or staff ...,The total number of academic departments (or the equivalent) that conduct research,A copy of the sustainability research inventory that includes the names and department affiliations ...,Names and department affiliations of faculty and staff engaged in sustainability research,A brief description of the methodology the institution followed to complete the research inventory,A brief description of notable accomplishments during the previous three years by faculty and/or ...,The website URL where information about sustainability research is available,Public Notes
+Bucknell University,2016-05-23,2016-05-23 16:28:39,delmogaz@bucknell.edu,2.0,Pursuing,99.0,412.0,24.0,39.0,http://stars.aashe.org/media/secure/550/6/470/2678/AASHE%20STARS%20Research.xlsx,"1.	Amador, Nathanael Santos, Geology	GEOLG
+2.	Andrews, Marcellus W 	ECONO
+3.	Antonaccio, Maria A 	RELIG
+4.	Armstrong, Elizabeth Logan 	EASIA
+5.	Banks, Nina Elizabeth 	ECONO
+6.	Bedi, Heather P 	ENVIRO
+7.	Beiler, Michelle Renee 	CIVILE
+8.	Benowitz-Fredericks, Z. Morgan 	BIOL
+9.	Boyd, Neil M 	MANGT
+10.	Buonopane, Stephen G 	CIVILE
+11.	Carr, Glynis 	ENGLI
+12.	Castle, Karen Janene 	CHEM
+13.	Chancellor, Nathan Brent 	CIVILE
+14.	Chernin, Mitchell I 	BIOL
+15.	Cons, Jason Gregory 	INREL
+16.	Crago, Richard David 	CIVILE
+17.	Csernica, Jeffrey 	CHEME
+18.	DiStefano, Thomas D 	CIVILE
+19.	Dubois, Philippe Christian 	DLCL
+20.	Duckles, Beth M 	SOCIO
+21.	Evans, Elizabeth Capaldi	BIOL
+22.	Evans, Jeffrey C 	CIVILE
+23.	Gabauer, Douglas J 	CIVILE
+24.	Gates, Julie A 	BIOL
+25.	Gilmore, Kevin R 	CIVILE
+26.	Gomez-Minambres, Joaquin 	ECONO
+27.	Griffin, Duane Alan 	GEOGR
+28.	Gross, Michael D 	CHEME
+29.	Haussmann, Mark F 	BIOL
+30.	Hendry, Jamie Ralston 	MANGT
+31.	Henne-Ochoa, Richard B 	EDUC
+32.	Henry, Sue Ellen 	EDUC
+33.	Higgins, Matthew J 	CIVILE
+34.	Hiller, Tammy B 	MANGT
+35.	Jansson, Peter M 	ELECE
+36.	Jones, Janet D 	CLASS
+37.	Jordan, Stephen D 	BIOL
+38.	Kazi, Paula M 	ECONO
+39.	Kell, Anna Kathryn 	ARTH
+40.	Kelley, David Frederick 	ELECE
+41.	Kinnaman, Thomas C 	ECONO
+42.	Kirby, Carl S 	GEOLG
+43.	Knoedler, Janet T 	ECONO
+44.	Lentz, Erin Coniker 	INREL
+45.	Lintott, Sheila M 	PHILO
+46.	Magee, Christopher Sean 	ECONO
+47.	Malusis, Michael Adam 	CIVILE
+48.	Maneval, James E 	CHEME
+49.	Marchiori, Alan M 	COMPSC
+50.	Marsh, David 	GEOGR
+51.	Martin, Eric C 	MANGT
+52.	Martine, Christopher T 	BIOL
+53.	McGuire, Molly M 	CHEM
+54.	McTammany, Matthew Eric 	BIOL
+55.	Milofsky, Carl 	SOCIO
+56.	Mordaunt, Christopher J 	MECHE
+57.	Morris-Keitel, Peter 	DLCL
+58.	Mulligan, Adrian Neil 	GEOGR
+59.	Nega, Berhanu 	ECONO
+60.	Newlin, Jessica Thomas 	CIVILE
+61.	Paliulis, Leocadia V 	BIOL
+62.	Prince, Michael J 	CHEME
+63.	Raymond, Timothy Michael 	CHEME
+64.	Reeder, DeeAnn Marie 	BIOL
+65.	Richards, Rosalyn 	ARTH
+66.	Rock, Melissa Y 	GEOGR
+67.	Roncallo, Alejandra 	INREL
+68.	Schmidli, William Michael 	HIST
+69.	Schneider, Geoffrey 	ECONO
+70.	Searles, Edmund Quincy	SOCIO
+71.	Sharma, Mala M 	MECHE
+72.	Siegel, Nathan Philip 	MECHE
+73.	Siewers, Alfred K 	ENGLI
+74.	Sills, Deborah Lynne 	CIVILE
+75.	Smith, Ron Joseph 	INREL
+76.	Snyder, Ryan Charles 	CHEME
+77.	Snyder, William J 	CHEME
+78.	Spiro, Mark Douglas 	BIOL
+79.	Stevenson Sanjian, Andrea 	POLSC
+80.	Stokes-Brown, Atiya Kai 	POLSC
+81.	Stowe, Emily Louise 	BIOL
+82.	Stryker, Peter C 	MECHE
+83.	Stuhl, Andrew	ENVIRO
+84.	Susman, Paul H 	GEOGR
+85.	Takahashi, Mizuki 	BIOL
+86.	Temelso, Berhane	CHEM
+87.	Toole, T. Michael 	CIVILE
+88.	Trego, Kristine M 	CLASS
+89.	Trop, Jeffrey Michael 	GEOLG
+90.	Ucarer, Emek M 	INREL
+91.	Wakabayashi, Katsuyuki 	CHEME
+92.	Westbrook, John Edward 	DLCL
+93.	White, Carol W 	RELIG
+94.	White, Nancy E 	ECONO
+95.	Williamson, Jill Paulette 	CHEM
+96.	Wilshusen, Peter	ENVIRO
+97.	Wolaver, Amy Margaret 	ECONO
+98.	Wooden, Amanda E 	ENVIRO
+99.	Zimmerman, Virginia Lee-Alice 	ENGLI
+
+
+","Student interns studied online details of faculty research interests and accomplishments to determine relevance to sustainability. If the online material was not conclusive then the faculty members were emailed and asked if they thought their research was sustainability-focused, based on the AASHE definition in the STARS manual. ","DeeAnn Reeder- Identification of deadly fungus that causes white-nose syndrome in bats.
+George Shields-  high-speed computing to predict how and where water and other molecules will cluster to form clouds. The results may help scientists understand how clouds will affect the pace of climate change.
+Nancy White-  true economic consequences of the ongoing energy exploration and its long-term effect on local economies where the drilling occurs
+Charles Kim & Jamie Hendry- Improve vision in Guatemala
+Chris Martine- Burpee Chair in Plant Genetics and Research",http://www.bucknell.edu/Documents/EnvironmentalCenter/Assessment%20Report%20final.pdf,--
+Florida Gulf Coast University,2016-05-23,2016-05-23 16:31:56,kleone@fgcu.edu,2.0,Pursuing,70.0,132.0,22.0,25.0,http://stars.aashe.org/media/secure/39/6/470/2678/AC-9-Academic%20Research%20Inventory-FINAL_1.xlsx,,"To inventory the amount of faculty members and departments engaged with or conducting sustainability research, we used a non-probability, purposive sampling method.  We sampled research from the following places:
+1)	Research funded by The Center for Sustainability & Education (CESE) during the 2013-14 fiscal year.  
+2)	Research funded by The Office of Research & Sponsored Programs during the 2013-14 fiscal year.*  
+3)	Research funded by The Whitaker Center for STEM Education [Science, Technology, Engineering, and Mathematics] during the 2013-14 fiscal year.  
+4)	Research presented at the Fall Undergraduate Research Symposium on December 6th, 2013.
+5)	Research presented at Campus Research Day on Friday, April 18, 2014**
+
+Before sampling the research, a group of faculty members and the Sustainability Coordinator crafted a definition of sustainability as it pertains to academic research at FGCU.   The following definition was agreed upon and is in line with the Earth Charter's definition: ""Research that address distributing social, economic, and environmental resources in ways that make them equitably available for humans, other organisms, and future generations.""  This definition along with the Earth Charter's Values and Principles for a Sustainable future guided the faculty and staff members responsible for identifying sustainability research for this inventory.  
+
+The Center for Sustainability & Education and The Office of Research & Sponsored Programs identified sustainability related research funded through their offices.  The Whitaker Center for STEM Education [Science, Technology, Engineering, and Mathematics] identified sustainability research funded by their Mini-Grants and Travel Grants.  The Office of Environmental Health & Safety pulled appropriate research from the list of research presented at the Fall Undergraduate Research Symposium and Campus Research Day.  Duplicates were eliminated to avoid double counting when calculating the amount of faculty members engaged with or conducting sustainability research out of the total amount of faculty engaging with or conducting any type of research. (i.e. Faculty members engaged with or conducting multiple research projects were only counted once).    
+The research inventoried from the five aforementioned sources enabled us to report on the total number of faculty engaged in sustainability research and the total number of departments with a faculty member conducting sustainability research.  We reported on the on the number of departments with one or more faculty/staff member conducting sustainability research by looking at funded research (sampled in sources one through three listed above).  We reported on the amount of faculty/staff engaged with sustainability by looking at all five places inventoried.  
+
+Out of FGCU’s 488 faculty, 132 received funding through CESE, The Office of Research & Sponsored Programs, The Whitaker Center or advised students participating in Fall Undergraduate Research Symposium or Research Day.  70 out of the 132 were engaged with sustainability related research projects.  
+
+We defined the 28 total academic divisions (listed in the notes) in IC-3 and AC-1 of this STARS report.  The Counseling, Accounting, and Resort & Hospitality Management departments did apply for research funding or have faculty members participate in the Research Day or Symposium that we used to sample research for this credit.  Therefore, we are reporting that 25 of the academic departments are conducting research for the purposes of this credit.  Of those 25 departments, 22 had at least faculty member that received funds through CESE, The Office of Research & Sponsored Programs, or The Whitaker Center to conduct sustainability research. Please see the attached inventory for further details. ",,--,"*The four staff members that applied for programming grants through the Office of Research & Sponsored Programs were removed from this sample.  All remaining people inventoried were faculty.  
+
+**Only the Faculty Member that gave the student a grade for the project and submitted the Research Day proposal on students’ behalf is listed on our inventory.  In many instances, additional faculty advisors were involved with the research inventoried on the “Research Day” sheet of the attached Excel inventory.  Unfortunately, there was no record of these additional faculty members available for this inventory.  
+
+In instances where staff or faculty members were engaged with sustainability research on behalf of an office, center, or non-academic department, they were categorized within the most applicable academic department. (i.e. the academic department in which that faculty or staff member could teach a course relating to their research).  The center, office, or non-academic department is noted in parenthesis on the inventory in the “Department Affiliation” column for reference.  "
+Haverford College,2016-05-23,2016-05-23 16:38:32,ckent@haverford.edu,2.0,Pursuing,6.0,129.3,5.0,29.0,,"Steve McGovern, Political Science
+Joshua Moses, Anthropology
+Shannon Mudd, Economics
+Joshua Schrier, Chemistry
+Helen White, Chemistry
+Jon Wilson, Biology","A review of recent institutional research grants coupled with local knowledge.  Pool was tenured, tenure-track, and continuing faculty on the College's teaching rolls.",,http://www.haverford.edu/academics/faculty/,--
+Juniata College,2016-05-23,2016-05-23 16:47:41,yelnosr@juniata.edu,2.0,Pursuing,10.0,75.0,4.0,18.0,,"Douglas S. Glazier (Biology): Ecology of freshwater springs, which supply many important ecological services of agricultural & economic value
+
+Chris J. Grant (Biology): Effects of natural gas mining on the quality of aquatic resources
+
+B. Thorpe Halloran (Environmental	Science & Studies): Monitoring effects of storm floods on river-floodplain systems
+
+Dennis L. Johnson (Environmental Science & Studies): Wetland restoration & agroecology; development of national flash flood guidance estimates
+
+Norris Z. Muth	(Biology):	Effects of invasive species on forest & soil microbial communities; restoration of native plant communities
+
+Roy D. Nagle (Environmental Science & Studies): Ecology & conservation biology of long-lived turtles 
+
+Neil W. Pelkey (Environmental Science & Studies): Watershed planning & analysis; sustainable artisanal fisheries management; sustainable forest management in India; wetland restoration & agroecology
+
+Uma Ramakrishnan	(Environmental Science & Studies): Restoration of American Chestnut; evaluating mercury bioaccumulation in coyotes; monitoring effects of warming waters on brown trout movements
+
+Sharon S. Yohn	 (Chemistry): Monitoring health of Raystown Lake, especially effects of nutrient enrichment and invasive exotic aquatic plants; education outreach about climate change
+
+Chuck Yohn (Raystown Field Station): Monitoring health of Raystown Lake, especially	
+effects of nutrient enrichment and invasive exotic aquatic plants
+",Personal email enquiries,"8 peer-reviewed publications, many with undergraduate student co-authors
+
+Oral or poster presentations at several scientific meetings and student scholarship conferences (> 20)
+
+Engagement of numerous (> 20) undergraduate students in research relevant to sustainability issues
+
+Public outreach activities (including regional restoration projects, citizen research participation, educational articles, and high school student and teacher workshops) by 6 faculty members in 3 departments (Biology, Chemistry and Environmental Sciences).
+",--,--
+Oregon State University,2016-05-23,2016-05-23 16:52:56,brandon.trelstad@oregonstate.edu,2.0,Pursuing,264.0,654.0,70.0,137.0,,"Abbott, Mark R	OAS - Oceanic and Atmos Sci Oper
+Abbott, Mark R	OAS - Oregon ClimateChange Res Inst
+Aduviri, Amas	DAA - Educ Opportunities Program
+Anderson, Kim A	ATX - Envr & Molec Tox Oper
+Anderson, Nicole	TEX - Extensn Yamhill County Office
+Andrews, Nicholas	ANW - North Willamette Oper
+Antle, John	AAR - Applied Economics Operations
+Argerich, Alba	FOR - FE Forest Engr Prgm
+Arismendi, Ivan D	AFW - Fisheries and Wildlife Oper
+Arnold, Mary E	HHS - Ext 4-H Youth Dev On-Campus
+Ashton, Carolyn	HHS - Ext 4-H Youth Dev Off-Campus
+Babbar-Sebens, Meghna	EKC - Kiewit Ctr for Transportation
+Bachelet, Dominique	ABE - Biol & Ecol Engrg Operations
+Bailey, John D	FOR - FE Forest Engr Prgm
+Bakalinsky, Alan T	AFS - Food Sci and Tech Oper
+Banks, Michael A	RDR - CIMRS (Coop Inst/Marine Res)
+Banks, Michael A	ASF - COMES - Newport
+Barroso, Judit	ACB - Colmbia Basin Oper
+Barth, John A	OAS - Oceanic and Atmos Sci Oper
+Bassil, Nahla V	AHT - Horticulture Operations
+Batten, Belinda A	ELS - NW Nat'l Mar Renew Energy Ctr
+Beckman, Joseph S	RDR - Environ Health Sci Ctr
+Behrenfeld, Michael J	ABP - Ag Botany and Plant Path Oper
+Benoit-Bird, Kelly J	OAS - Oceanic and Atmos Sci Oper
+Betts, Matthew G	FOR - Forest Ecosystem Sciences Prg
+Blunck, David L	EMM - Mechanical Engineering Prgm
+Boggess, William G	AGA - College of Ag Administration
+Bolte, John P	ABE - Biol & Ecol Engrg Operations
+Boudet, Hilary S	CLA - School of Public Policy
+Brauner, David R	CLA - School of Lang, Culture & Soc
+Brekken, Ted K	ESE - Elect/Comp Engr Prgm
+Brook, Edward J	OAS - Geosciences Operations
+Bryla, David R	AHT - Horticulture Operations
+Capalbo, Susan M	AAR - Applied Economics Operations
+Carter, Rich G	SCH - Chemistry Operations
+Chan, Francis	SZO - Integrative Biology Operatns
+Chang, Chih-hung	ECB - Chemical Engineering Prgm
+Chastain, Thomas G	ACS - Crop and Soil Science Oper
+Cheung, Itchung S	RMS - Hatfield Marine Science Ctr
+Chiang, Patrick Y	ESE - Elect/Comp Engr Prgm
+Chung, Woodam	FOR - FE Forest Engr Prgm
+Coleri, Erdem	EKC - Kiewit Ctr for Transportation
+Colwell, Frederick S	OAS - Oceanic and Atmos Sci Oper
+Conley Jr, John F	RDR - Mat Synth & Charact(MaSC) Fac
+Conley Jr, John F	ESE - Elect/Comp Engr Prgm
+Coop, Leonard B	AIP - Ag IPPC Extension
+Coop, Leonard B	AIP - Ag IPPC Operations
+Copeman, Louise A	OAS - Oceanic and Atmos Sci Oper
+Cotilla-Sanchez, J E	ESE - Elect/Comp Engr Prgm
+Cowen, Robert	RMS - Hatfield Marine Science Ctr
+Creighton, Janean	FOR - Forest Ecosystem Sciences Prg
+Crump, Byron C	OAS - Oceanic and Atmos Sci Oper
+Curtis, Shelley J	AGA - College of Ag Administration
+Daly, Christopher	EIU - Computational Sci & Engr Ctr
+Davis, Curtiss O	OAS - Oceanic and Atmos Sci Oper
+Davis, Emily Jane	FOR - Forest Ecosystem Sciences Prg
+Davis, Emily Jane	FOR - Extension Forestry Oper
+De Leenheer, Patrick	SMT - Mathematics Operations
+DeBano, Sandra J	AHE - Hermiston Operations
+DeFrancesco, Joseph T	ANW - North Willamette Extension
+DeFrancesco, Joseph T	ANW - North Willamette Oper
+Diebel, Penelope L	AGA - College of Ag Administration
+Dodge Vera, Tina A	TEX - Extension Linn County Office
+Doescher, Paul S	FOR - Forest Ecosystem Sciences Prg
+Dreves, Amy J	ACS - Crop and Soil Science Oper
+Drost, Monte K	EMD - Micro Products - MIME
+Dugger, Bruce D	AFW - Fisheries and Wildlife Oper
+Dugger, Katie M	AFW - Fisheries and Wildlife Oper
+Duncan, Sally L	CLA - School of Public Policy
+Dung, Jeremiah K	ACT - Central Oregon Oper
+Dunham, Jason B	AFW - Fisheries and Wildlife Oper
+Ebbeck, Vicki	HHS - Sch of Bio & Pop Hlth Sci Ops
+Edge, William D	AFW - Fisheries and Wildlife Oper
+Egna, Hillary S	APD - Aquaculture CRSP Operations
+Einhorn, Todd C	AMC - Mid-Columbia Oper
+Ellsworth-Johnson, Lisa M	AFW - Fisheries and Wildlife Oper
+Endress, Bryan A	AGS - Eastern Oregon ARC Oper
+Epps, Clinton	AFW - Fisheries and Wildlife Oper
+Etuk, Lena E	HHS - EXT Family/Comm HealthOn-Cmps
+Falk, John H	RDR - Ctr for LifelongSTEM Learning
+Felix, Joel	AMA - Malheur Operations
+Fern, Alan P	ESE - Elect/Comp Engr Prgm
+Fern, Alan P	ESE - Computer Science Prgm
+Field, Jennifer A	ATX - Envr & Molec Tox Oper
+Field, Katharine G	ABR - Bioresources Research Oper
+Fitzgerald, Stephen A	FOR - FE Forest Engr Prgm
+Frei, Simone	RDR - Linus Pauling Institute
+Friedlaender, Ari	AMM - Marine Mammal Institute Ops
+Frost, Kenneth E	AHE - Hermiston Operations
+Gaines, Lisa J	RNR - Institute Natural Resources
+Gaines, Lisa J	RNR - INR Information Operations
+Ganio, Lisa M	FOR - Forest Ecosystem Sciences Prg
+Garcia, Tiffany S	AFW - Fisheries and Wildlife Oper
+Gent, David H	ABP - Ag Botany and Plant Path Oper
+Giannico, Guillermo R	AFW - Fisheries and Wildlife Oper
+Goodrich, Charles R	CLA - School of Hist Phil & Rel
+Goyer, Aymeric J	AHE - Hermiston Operations
+Graham, Matthew	SPH - Physics Operations
+Greaney, Peter A	EMM - Mechanical Engineering Prgm
+Green, Stephanie J	SZO - Integrative Biology Operatns
+Gregory, Stanley V	AFW - Fisheries and Wildlife Oper
+Grevstad, Fritzi	ABP - Ag Botany and Plant Path Oper
+Grorud-Colvert, Kirsten A	SZO - Integrative Biology Operatns
+Grotta, Amy T	FOR - Extension Forestry Oper
+Guzy, Michael R	AIP - Ag IPPC Operations
+Haapala, Karl	EMM - Industrial/Manufact Engr Prgm
+Haapala, Karl	EMP - Oregon Metals Inittv MIME
+Hacker, Sally	SZO - Integrative Biology Operatns
+Hagen, Chris	LCB - Engineering
+Hagen, Christian A	AFW - Fisheries and Wildlife Oper
+Haggerty, Roy D	OAS - Geosciences Operations
+Haggerty, Roy D	RDR - Water / Watershed Institute
+Halbleib, Mary L	AIP - Ag IPPC Extension
+Hall, Troy E	FOR - Forest Ecosystem Sciences Prg
+Haller, Merrick C	ELS - NW Nat'l Mar Renew Energy Ctr
+Haller, Merrick C	EKC - Kiewit Ctr for Transportation
+Haller, Merrick C	ECC - Civil Engineering Prgm
+Hansen, David J	RSG - Sea Grant
+Hansen, Gayle I	ABP - Ag Botany and Plant Path Oper
+Harmon, Mark E	FOR - Forest Ecosystem Sciences Prg
+Hase, Claudia C	VMD - Animal Health Research
+Hatten, Jeffery A	FOR - FE Forest Engr Prgm
+Hayes, Patrick	ACS - Crop and Soil Science Oper
+Henkel, Sarah K	RMS - Hatfield Marine Science Ctr
+Henkel, Sarah K	OAS - Oceanic and Atmos Sci Oper
+Herman, Gregory S	ECB - Chemical Engineering Prgm
+Herman, Gregory S	EMD - Micro Products - CBEE
+Herman, Gregory S	RDR - Mat Synth & Charact(MaSC) Fac
+Hilker, Thomas	FOR - FE Forest Engr Prgm
+Hill, David F	ECC - Civil Engineering Prgm
+Hill, David F	EKC - Kiewit Ctr for Transportation
+Hillyer, Charles C	ABE - Biol & Ecol Engrg Operations
+Horning, Markus	AMM - Marine Mammal Institute Ops
+Hosty, Maureen E	TEX - Ext Metro Outreach
+Howe, Glenn T	FOR - Forest Ecosystem Sciences Prg
+Hoynacki, Daniel J	TEX - Extensn Marion County Office
+Huff, Tristan D	TEX - Extension Coos County Office
+Hutchings, Jennifer K	OAS - Oceanic and Atmos Sci Oper
+Hystad, Perry	HHS - Sch of Bio & Pop Hlth Sci Ops
+Ideker, Jason H	EKC - Kiewit Ctr for Transportation
+Istok, Jonathan D	EKC - Kiewit Ctr for Transportation
+Jaiswal, Pankaj	ABP - Ag Botany and Plant Path Oper
+Jarvis, William T	RDR - Water / Watershed Institute
+Jeliazkov, Valtcho	ACB - Colmbia Basin Oper
+Jepson, Paul C	AIP - Ag IPPC Operations
+Jepson, Paul C	AIP - Ag IPPC Extension
+Ji, Xiulei	SCH - Chemistry Operations
+Johnson, Dustin D	AGS - Eastern Oregon ARC Oper
+Johnson, James E	FOR - Extension Forestry Oper
+Johnson, Kenneth B	ABP - Ag Botany and Plant Path Oper
+Jones, Frank A	ABP - Ag Botany and Plant Path Oper
+Jones, Julia A	OAS - Geosciences Operations
+Jovanovic, Goran N	EMD - Micro Products - CBEE
+Jovanovic, Goran N	ECB - Chemical Engineering Prgm
+Junker, Joseph F	EMM - Mechanical Engineering Prgm
+Juranek, Lauren W	OAS - Oceanic and Atmos Sci Oper
+Kagan, James S	RNR - INR Information Operations
+Kagan, James S	RNR - Institute Natural Resources
+Kaiser, Clive	TEX - Ext Umatilla County Office
+Kamke, Fred	FOR - Wood Sci/Engr Oper
+Karow, Russell S	ACS - Crop and Soil Science Oper
+Kauffman, J B	AFW - Fisheries and Wildlife Oper
+Kennedy, Robert E	FOR - Forest Ecosystem Sciences Prg
+Kennedy, Robert E	OAS - Geosciences Operations
+Keszler, Douglas A	RDR - Mat Synth & Charact(MaSC) Fac
+Keszler, Douglas A	SCH - Chemistry Operations
+Kleber, Markus	ACS - Crop and Soil Science Oper
+Klinck, Holger	RDR - CIMRS (Coop Inst/Marine Res)
+Kling, Jennifer G	ACS - Crop and Soil Science Oper
+Kolesar, Sarah E	RSG - Sea Grant
+Kosro, P M	OAS - Oceanic and Atmos Sci Oper
+Kowalewski, Alec R	AHT - Horticulture Extension
+Kowalewski, Alec R	AHT - Horticulture Operations
+Lajtha, Kate J	ACS - Crop and Soil Science Oper
+Lancaster, Stephen T	OAS - Geosciences Operations
+Law, Beverly E	FOR - Forest Ecosystem Sciences Prg
+Lerner, Michael M	SCH - Chemistry Operations
+Lev, Larry S	AAR - Applied Economics Operations
+Lintz, Heather E	OAS - Oregon ClimateChange Res Inst
+Liston, Aaron I	ABP - Ag Botany and Plant Path Oper
+Lubchenco, Jane	SZO - Integrative Biology Operatns
+Lytle, David A	SZO - Integrative Biology Operatns
+Machado, Stephen	ACB - Colmbia Basin Oper
+Macrory Powell, Maud	TEX - Extensn Jackson County Office
+Madsen, Lisa J	SST - Statistics Operations
+Maguire, Douglas A	FOR - FE Forest Engr Prgm
+Mahaffee, Walter F	ABP - Ag Botany and Plant Path Oper
+Marino, Elizabeth	LCB - Social Sciences
+Marshall, Christopher J	SZO - Integrative Biology Operatns
+Martin, Dana L	TEX - Extension Warm Springs
+Matano, Ricardo P	OAS - Oceanic and Atmos Sci Oper
+Mc Comb, Brenda C	GRD - Grad School Special Programs
+Mc Cune, Bruce	ABP - Ag Botany and Plant Path Oper
+Mc Iver, James D	AGS - Eastern Oregon ARC Oper
+Mehlenbacher, Shawn A	AHT - Horticulture Operations
+Meigs, Andrew J	OAS - Geosciences Operations
+Meigs, Andrew J	OAS - Oceanic and Atmos Sci Oper
+Menge, Bruce A	SZO - Integrative Biology Operatns
+Miller, Jessica A	ASF - COMES - Newport
+Miller, Weston A	AHT - Horticulture Extn Field Fac
+Mix, Alan C	OAS - Oceanic and Atmos Sci Oper
+Morrissey, Michael T	AFC - Food Innovtn Ctr Exp Sta Ops
+Mote, Philip W	OAS - Oregon ClimateChange Res Inst
+Mundt, Christopher C	ABP - Ag Botany and Plant Path Oper
+Murthy, Ganti	ABE - Biol & Ecol Engrg Operations
+Muszynski, Lech	FOR - Wood Sci/Engr Oper
+Myers, James R	AHT - Horticulture Operations
+Myrold, David D	ACS - Crop and Soil Science Oper
+Nairn, John A	FOR - Wood Sci/Engr Oper
+Nason, Jeffrey A	ECB - Environmental Engr Prgm
+Needham, Mark D	FOR - Forest Ecosystem Sciences Prg
+Nelson, Michael P	FOR - Forest Ecosystem Sciences Prg
+Nolin, Anne W	OAS - Geosciences Operations
+Noller, Jay S	ACS - Crop and Soil Science Oper
+Paasch, Robert K	ELS - NW Nat'l Mar Renew Energy Ctr
+Park, Jae W	ASF - COMES - Astoria
+Parke, Jennifer L	ACS - Crop and Soil Science Oper
+Parke, Jennifer L	ABP - Ag Botany and Plant Path Oper
+Paul, Brian K	EMM - Industrial/Manufact Engr Prgm
+Paul, Brian K	EMD - Micro Products - MIME
+Peachey, Ronald E	AHT - Horticulture Operations
+Peterson, James T	AFW - Fisheries and Wildlife Oper
+Price, Lisa M	CLA - School of Lang, Culture & Soc
+Pscheidt, Jay W	ABP - Ag Botany and Plant Path Oper
+Puettmann, Klaus J	FOR - Forest Ecosystem Sciences Prg
+Rao, Sujaya U	ACS - Crop and Soil Science Oper
+Reese, Ryan F	LCB - Education
+Reimers, Clare E	OAS - Oceanic and Atmos Sci Oper
+Reimers, Clare E	OAS - Earth, Ocean & Atmo Sci Depts
+Remcho, Vincent T	SCH - Chemistry Operations
+Rondon, Silvia	AHE - Hermiston Operations
+Rondon, Silvia	AHE - Hermiston Extension
+Rowe, Shawn	RSG - Sea Grant
+Ruggiero, Peter	OAS - Oceanic and Atmos Sci Oper
+Ruggiero, Peter	OAS - Oregon ClimateChange Res Inst
+Ruzicka, James J	RDR - CIMRS (Coop Inst/Marine Res)
+Sagili, Ramesh	AHT - Horticulture Operations
+Sahnow, Susan K	FOR - Extension Forestry Oper
+Salwasser, Janine M	RNR - INR Information Operations
+Sampson, David B	ASF - COMES - Newport
+Santamaria, Luisa	ANW - North Willamette Oper
+Santelmann, Mary V	OAS - Geosciences Operations
+Schimleck, Laurence R	FOR - Wood Sci/Engr Oper
+Schmittner, Andreas	OAS - Oceanic and Atmos Sci Oper
+Schultz, Adam	OAS - Oceanic and Atmos Sci Oper
+Semprini, Lewis	ECB - Environmental Engr Prgm
+Sessions, Jon	FOR - FE Forest Engr Prgm
+Sessions, Julian D	FOR - FE Forest Engr Prgm
+Shaw, David C	FOR - FE Forest Engr Prgm
+Shearer, Peter W	AMC - Mid-Columbia Oper
+Shinderman, Matthew J	LCB - Natural Resources
+Shindler, Bruce A	FOR - Forest Ecosystem Sciences Prg
+Shock, Clinton C	AMA - Malheur Operations
+Shroyer, Emily L	OAS - Oceanic and Atmos Sci Oper
+Simes, Rhianna	TEX - Extensn Jackson County Office
+Skaugset III, Arne E	FOR - FE Forest Engr Prgm
+Smiley, Richard W	ACB - Colmbia Basin Oper
+Smith, Carole A	TEX - Extension Union County Office
+Solberg, Rorie L	CLA - School of Public Policy
+Sorte, Joanne M	HHS - Child Development Lab
+Spitz, Yvette H	OAS - Oceanic and Atmos Sci Oper
+Stephenson, Garry O	ACS - Crop and Soil Science Oper
+Stone, Alexandra G	AHT - Horticulture Operations
+Stone, Alexandra G	AHT - Horticulture Extension
+Stone, David L	ATX - Envr & Molec Tox Oper
+Stubblefield, William A	ATX - Envr & Molec Tox Oper
+Sullivan, Dan M	ACS - Crop and Soil Science Oper
+Suryan, Robert M	RMS - Hatfield Marine Science Ctr
+Sylvia, Gilbert	ASF - COMES - Newport
+Talbott, John R	ASG - Sun Grant Western Center
+Tanguay, Robert	ATX - Envr & Molec Tox Oper
+Tanguay, Robert	RDR - Environ Health Sci Ctr
+Tanguay, Robert	RDR - Superfund Research Center
+Taylor II, Jimmy D	FOR - Forest Ecosystem Sciences Prg
+Tesch, Steven D	FOR - FE Forest Engr Prgm
+Turner, David P	FOR - Forest Ecosystem Sciences Prg
+Tyler, Brett	ABP - Ag Botany and Plant Path Oper
+Tyler, Brett	RDR - Genome Rsrch & Biocomp Ctr
+Vache, Kellie B	ABE - Biol & Ecol Engrg Operations
+Wada, Sugae	AHT - Horticulture Operations
+Wager, John F	ESE - Elect/Comp Engr Prgm
+Wager, John F	RDR - Mat Synth & Charact(MaSC) Fac
+Waite-Cusic, Joy G	AFS - Food Sci and Tech Oper
+Walton, Vaughn M	AHT - Horticulture Operations
+Warren, Dana	AFW - Fisheries and Wildlife Oper
+Warren, Dana	FOR - Forest Ecosystem Sciences Prg
+Werling, Rachel A	TEX - Extensn Jackson County Office
+White, Angelicque E	OAS - Oceanic and Atmos Sci Oper
+White, Eric M	FOR - FE Forest Engr Prgm
+Wildenschild, Dorthe	ECB - Chemical Engineering Prgm
+Williams, David E	RDR - Superfund Research Center
+Williams, David E	RDR - Linus Pauling Institute
+Willis, Patrick C	HHS - Ext 4-H Youth Dev Off-Campus
+Willis, Patrick C	TEX - Ext Washington County Office
+Wu, JunJie	AAR - Applied Economics Operations
+Yang, Wei Q	ANW - North Willamette Oper
+Yilma, Solomon	ACS - Crop and Soil Science Oper
+Yokochi, Alexandre F	ECB - Chemical Engineering Prgm
+Zemetra, Robert S	ACS - Crop and Soil Science Oper
+Zhao, Yanyun	AFS - Food Sci and Tech Oper","OSU Sustainability Office staff reviewed all 1736 FY15 rows of active research award data and coded awards according to their alignment with Earth Charter principles.  Correlation with OSU's Signature Areas of Distinction was also supported by this method. As indicated in OSU’s Strategic Plan, research activities should advance the science of sustainable earth ecosystems, improve human health and wellness, promote economic development and social progress, or expand the current knowledge base within sustainability focus areas such as alternative energy, climate, and materials sciences.","Harnessing the Power of the Ocean
+In 2008, the U.S. Department of Energy established the Northwest National Marine Renewable Energy Center (NNMREC), directed by OSU mechanical engineering professor Bob Paasch, a collaborative effort between OSU, University of Washington and the National Renewable Energy Lab. The NNMREC includes researchers from the colleges of Engineering, Oceanic and Atmospheric Sciences and Science, along with Oregon Sea Grant, the Cooperative Institute for Marine Resources Studies, the Marine Mammal Institute and the Hatfield Marine Science Center.  NNMREC is one of only three U.S. Department of Energy National Marine Renewable Energy Centers.
+
+Wind Energy: Thinking Smaller and Thinking Ahead
+OSU's Energy Resources Research Laboratory is working with the Bonneville Power Administration on wind-forecasting models to determine the most productive locations for wind farms. Forecasting models are also useful in research to capture excess energy generated during peak wind events and releasing the stored energy onto the power grid at times when wind speeds are slow. OSU research also focuses on grid management and integration of renewable energy sources.
+
+Modernizing the grid
+Beyond finding new sources of energy and reducing consumption, OSU energy research also addresses the need to modernizing America’s aging and outdated power distribution infrastructure. This includes scale modeling, control systems, machine learning and networks that support smart grids. These digitally-controlled transmission and distribution systems are designed to be more reliable, energy efficient and economical, as well as able to readily accommodate renewable energy sources. OSU has one of the only grid-scale laboratories capable of testing products for utility performance.
+
+Making Solar More Efficient and Manufacturable 
+Materials research is at the core of transforming solar energy technology. Appropriate selection of materials enables new technologies that are inexpensive, highly efficient and reliable. Oregon State University conducts a variety of materials research leading to next generation technologies.  Advancements include thin film flexible substrate solar technologies, high efficiency coatings and transparent electronics to optimize solar energy harvest. In partnering with companies like Oregon BEST and Solar World  OSU research in solar technologies is expanding at an exciting pace.
+
+",http://fa.oregonstate.edu/sustainability/research,"Please note that the count of ""academic departments"" listed in this credit differs than counts in other credits. For this credit, academic departments are broken down by specific campus unit conducting research, which includes centers, institutes and programs (which may focus solely on research) in addition to traditional academic departments.  "
+Pittsburg State University,2016-05-23,2016-05-23 16:56:41,bpeery@pittstate.edu,2.0,Pursuing,32.0,250.0,5.0,23.0,,"Dr. Ram Gupta, Chemistry
+Dr. Pawan Kahol, Physics
+Dr. Petar Dvornic, Chemistry
+     Trent Lidbloom, Automotive Technology
+     Bob Schroer, Automotive Technology
+Dr. Alice Sagehorn, Teaching and Leadership
+Dr. Jean Dockers, Teaching and Leadership
+Dr. Tim Bailey, History, Philosophy and Social Science
+Dr. Catherine Hooey, Mining in Region
+
+
+
+",Department chairs were sent the PSU definition of sustainability and survey which asked them to list the faculty in their academic department who were conducting sustainability related research.,,--,--
+Slippery Rock University,2016-05-23,2016-05-23 16:59:42,paul.scanlon@sru.edu,2.0,Pursuing,20.0,382.0,5.0,33.0,,"1. Geography, Geology & the Environment:
+Stentor Danielson
+Tamra Schiappa
+Langdon Smith
+Julie Snow
+Jack Livingston
+Patrick Burkhart
+James Hathaway
+Michael Stapleton
+Jialing Wang 
+Michael Zieg
+
+2. Business Department:
+David Culp
+Frances Amatucci
+John Golden
+Rhonda Clark
+
+3. Parks and Recreation Department:
+Rebecca Thomas
+Christopher Leininger
+Paulette Viola 
+
+4. Chemistry:
+Mary E. Sisak
+
+5. Biology:
+Simon Beeching
+Dean DeNicola ",The research inventory was completed using a combination of self-reporting by faculty members; review of research grant and Green Fund Grant project announcements; a review of publications published in the Deans' quarterly reports; and a review of the Bailey Library Center for Research that supports faculty-sponsored student research.,"Dr. Jack Livingston is leading SRU  students in climate change research in western China - ""The Xinjiang Uyghur Autonomous region in Western China is at the center of important changes in that country's international economic policies, its growing concerns about climate change and its increasing efforts at nomadic sedentarization,"" said Jack Livingston, SRU associate professor of Geography, Geology and the Environment. ""The area is like the Front Range of the Rocky Mountains...short grassy areas, fairly aerated, and then you get some truly desert terrain. It's an area very sensitive to climate change and one that makes for great research."" So great in fact, that Livingston has teamed with colleague Xianfeng Chen, SRU associate professor of geography, geology and the environment, and a group of six SRU students for a 21-day trip to the region beginning June 13, 2016. This student-faculty research project is being made possible through a $39,776 grant from the ASIANetwork. - See more at: http://www.sru.edu/news/021516a#sthash.IzrqJWWS.dpuf 
+
+Dr. Julie Snow, a professor in the Geology, Geography and the Environment Department, published a chapter in the book ""Sustainability in Higher Education, Stories and Strategies for Transformation."" See http://rockpride.sru.edu/2013/RP092713/story.php?id=4 for additional information.
+
+John Golden, Rhonda Clark and Paul Scanlon have been mentoring Sustainable Enterprise Accelerator (School of Business) student interns and volunteers in the design, construction and research program development for the Aquaponics project installed at the Macoskey Center. 
+
+Prof. Nicole Dafoe, Biology Department, received a $9,924 grant in 2015 from the Faculty Professional Development Council to research soybean DNA - This research project focuses on understanding how endoreduplication is regulated, specifically in soybeans, an agriculturally important crop species. - See more at: http://www.sru.edu/news/good-news-050715#sthash.pbhcQ0hu.dpuf
+
+Examples of faculty/student sustainability research included in the 2013 SRU Symposium for Student Research, Scholarship, and Creative Achievement include:
+1. Greening National Parks: Expanding Traditional Roles to Combat Climate Change, Elizabeth D Smith, Geography, Geology and the Environment Department
+2. Water Bottle Filling Stations: One Step Closer to Sustainability, Darryl Loman II, Physical Education Department 
+3. Slippery Rock Water Quality, Ethan  Thomas James  Hunt, Physical Education Department 
+4. Assessing the Contribution of Periglacial Meltwaters to Water Supply, High Central Andes, Argentina, Ethan Thomas Geisler, Geography, Geology and the Environment Department
+5. Analysis of Dreissena Bugensis Shell Ca/Mg Ratios and Ecological Implications in Lake Michigan, Andrew Earl Franze, Geography, Geology and the Environment Department
+6. Evaluation of Geomorphic Forcing by the Medieval Climate Anomaly in the White River Badlands, James John Stevens, Geology and the Environment Department
+7. Public Relations Case Study: Corporate Social Responsibility at Primark Stores Limited, Leah Ashley Reith, Communications Department 
+8. Public Relations Case Study: Analysis of the Crisis Management Tactics of BP during the Deepwater Horizons Oil Spill, Corey Walter DeSantis, Communications Department
+9. The Induction of Endoreduplication in Response to Wounding in Seed Plants, Samuel David Lotz, Biology Department 
+
+Examples of faculty/student sustainability research included in the 2014 SRU Symposium for Student Research, Scholarship, and Creative Achievement include:
+1. Cell Cycle Gene Expression in Wounded Soybean Stem Tissue, Breanna Mary Kebort, Chemistry Department
+2. Examining Health Disparities in Mortality Rates Based Upon Socioeconomic Status, Maria Renee Zaffuto, Public Health Department
+
+Examples of faculty/student sustainability research included in the 2015 SRU Symposium for Student Research, Scholarship, and Creative Achievement include:
+1. Expression of Defense Genes in Wounded Soybean Stems, Amy Kinzler, Biology Department  
+2. The Effects of a Common Pesticide, Imidaclopid, on Amphibian Testosterone Levels, Leah Marshall, Biology Department
+3. Trash Routing Problem, Joshua Sarver and Aaron Rockburn, Computer Science Department
+4. The Dispersion, Transport and Accumulation of Six Criteria Air Pollutants in Chicago, Illinois during 2012, Ashley Beal, Tyler Branca and Victoria Yeager,  Geography, Geology and the Environment Department
+5. Evaluation of Geomorphic Forcing by the Medieval Climate Anomaly Upon Pediments Across the White River Badlands, South Dakota, Kaitlyn Bouch, Geography, Geology and the Environment Department
+6. The Application of Multichannel Anaysis of Surface Waves to Identify Abandoned Mine Tunnels, Curtis Kerns, Geography, Geology and the Environment Department
+7. Hydrogeologic Assessment to Support Source-Water Protection for Critical Prairie Habitat,  Jennings Environmental Education Center, Pennsylvania, Scott Laborie, Nicholas Turner, Elizabeth Dreimiller and Travis Anderson,  Geography, Geology and the Environment Department
+8. Wetland Mapping with High Spatial Resolution Space-Borne Multi-spectral Data and SAR Data, James Meehan, Geography, Geology and the Environment Department
+9. Analysis of Wind Transportation and Mercury Concentration in the Great Lakes Region, Victoria Yeager and Ashley Beal, Geography, Geology and the Environment Department
+10. Health and Society: Infant Mortality, Socioeconomic  Status and Income Disparity, Taylor Deats, Independent Studies 
+11. Population Management of Bat Species by Designing Experimental Bat Houses, Lauren Brink, Parks & Recreation Department
+12. Improving Bus Schedule Reliability in a Transit System, Xindi Li, School of Business
+
+
+",http://rockpride.sru.edu/2013/RP092713/story.php?id=4,--
+University of Texas Rio Grande Valley,2016-05-23,2016-05-23 17:03:18,Marianella.Franklin@utrgv.edu,2.0,Pursuing,160.0,920.0,29.0,40.0,,"Anthropology:
+Dr. Lynn Vincentnathan
+Dr. Margaret Dorsey
+Dr. Margaret Graham
+Dr. Miguel Diaz-Barriga
+
+Biology:
+Dr. Alexis Racelis
+Dr. Andrew McDonald
+Dr. Christopher Vitek
+Dr. Frank J Dirrigl
+Dr. Frank W Judd
+Dr. Fred Zaidan
+Dr. Hudson R DeYoe
+Dr. Jon Dale
+Dr. Kenneth R. Summy
+Dr. Kristine L. Lowe
+Dr. Luis A Materon
+Dr. Mohammed Farooqui
+Dr. Robert Gilkerson
+Dr. Robert J Edwards
+Dr. Teresa P Feria
+Dr. Timothy Brush
+Dr. Zen Faulkes
+
+Chemistry:
+Dr. Aijie Han
+Dr. Elamin E Ibrahim
+Dr. Hassan Ahmad
+Dr. Jason Parsons
+Dr. Javier Macossay-Torres
+Dr. Joanne Ramersad-Ammons
+Dr. K. Christopher Smith
+Dr. Phillip DeLassus
+Dr. Thomas Whelan
+Dr. Yuanbing Mao
+Dr. James Bullard
+
+Civil Engineering:
+Dr. Jungseok Ho
+Dr. Mohammad Azarbayejani
+
+Communication:
+Dr. Jing Liu
+Dr. Yvonne Yanrong Chang
+
+Computer Engineering:
+Dr. Christine Reilly
+Dr. Sanjeev Kumar
+Dr. Xiang Lian
+Dr. Yul Chu
+
+Computer Science:
+Dr. Andres Figueroa
+Dr. Dongchul Kim
+Dr. Richard Fowler
+Dr. Sunyoung Cho
+
+Criminal Justice:
+Dr. Joseph Appiahene-Gyamfi
+Mr. George Bowe
+Mr. Stanley Gonzalez
+
+Economics & Finance:
+Dr. Alberto Davila
+Dr. Alejandro Serrano
+Dr. Andre Varella Mollick
+Dr. Dave Jackson
+Dr. Diego Escobari
+Dr. Eduardo Saucedo
+Dr. James W Boudreau
+Dr. Marie T Mora
+Dr. Salvador Contreras
+Dr. Terrance Martin
+Dr. Wanling Huang
+
+Education:
+Dr. John Lowdermilk
+
+Educational Leadership:
+Dr. Fransico Guajardo
+
+Electrical Engineering:
+Dr. Hasina Huq
+Dr. Jaime Ramos
+Dr. Jun Peng
+Dr. Weidong Kuang
+
+English:
+Dr. Danika M Brown
+Dr. David Anshen
+Dr. Deborah L Cole
+Dr. Marci R McMahon
+Dr. Matthew J Christensen
+Ms. Emmy Pérez
+Ms. Marlene Galvan
+
+Environmental Studies:
+Dr. Amy Cummins
+Dr. Aziza Zemrani
+Dr. George Atisa
+Dr. Olga Gerhart
+Dr. Stefanie Herweck
+Dr. Stephen Leach
+Dr. William Donner
+Mr. Erik Anderson
+Mr. James Gleason
+Ms. Marianita Escamilla
+
+Health and Kinesiology:
+Dr. Layne Winslow Jorgensen
+Dr. Paul Villas
+Dr. Soojin Yoo
+Mr. Zasha Romero
+
+History and Philosophy:
+Dr. Amy Hay
+Dr. Brent M.S. Campney
+Dr. Cynthia Jones
+Dr. Friederike Bruehoefener
+Dr. Megan Birk
+Dr. Olga Stadelmann Gerhart
+Dr. Christopher L Miller
+Dr. Dahlia Guerra
+Dr. Nick Taylor
+Dr. Russel Skowronek
+Dr. Sonia Hernandez
+Dr. Walter Diaz
+Mr. John Milford
+Ms. Bobbie Lovett
+Ms. Roseann Bacha-Garza
+
+Management:
+Dr. Hale Kaynak
+Dr. John Sargent
+Dr. Jorge A Gonzalez
+
+Manufacturing Engineering:
+Dr. Alley Butler
+Dr. Douglas Timmer
+Dr. Hiram Moya
+Dr. James Ignizio
+Dr. Jianzhi Li
+Dr. Kye Hwan Lee
+Dr. Miguel Gonzalez
+Dr. Rajiv Nambiar
+Dr. Subhash Bose
+
+Marketing:
+Dr. Penny Simpson
+Dr. Reto Felix
+Dr. Sharon Schembri
+Mr. Joe Garza
+
+Mathematics:
+Dr. Dambaru Bhatta
+Dr. Daniel Riahi
+Dr. Nam Nguyen
+Dr. Olga M Ramirez
+Dr. Virgil Pierce
+Dr. Xiaohui Wang
+
+Mechanical Engineering:
+Dr. Constantine M Tarawneh
+Dr. Ernur Karadogan
+Dr. Isaac Choutapalli
+Dr. Kamal Sarkar
+Dr. Karen Lozano
+Dr. Mataz Alcoutlabi
+Dr. Waseem Haider
+
+Mexican American Studies:
+Dr. Cathryn Josefina Merla-Watson
+Dr. Jessica Lavariega Monforti
+
+Nursing:
+Dr. Sandra Sanchez
+
+Pharmacy:
+Dr. Adrian Sandoval
+Dr. Lydia Aguilera
+
+Physics and Geology:
+Dr. Juan Gonzalez
+Dr. Mohammad Hannan
+
+Political Science:
+Dr. Angel Saavedra Cisneros
+Dr. Delina Barrera
+Dr. James P. Wenzel
+Dr. Owen F Temby
+Dr. Paul D Jorgensen
+Dr. Sergio Bejar Lopez
+Ms. Kay Ford
+
+Psychology:
+Dr. Grant Benham
+Dr. James Aldridge
+Dr. Jason Popan
+Dr. Joseph Hovey
+Dr. Maureen Flynn
+Ms. Liza Talavera-Garza
+
+Public Affairs:
+Dr. Aziz Zemrani
+
+Rehabilitation:
+Dr. Roy Chen
+
+Social Work:
+Dr. Catherine Faver
+
+Sociology:
+Dr. Igor Ryabov
+Dr. Steven Foy
+
+STX Border Health Disparities Center:
+Dr. Damian Damianov
+Dr. Glenn Martinez
+Dr. Grant Benham
+Dr. Jose A Pagan
+Dr. Liza Talavera-Garza
+Dr. Suad Ghaddar
+
+Accounting & Business Law:
+Dr. Andres Bello","In order to complete the research inventory, we accessed our universities FARS (faculty activity reporting system) database, contacted department chairpersons, and Engagement Survey data.
+
+Each university faculty member was contacted and their respective vitae were reviewed for sustainability content.","FiberRio Technology Corporation
+	Forcespinning™, a process of creating nanofibers, is a technology created by Dr. Karen Lozano and Dr. Kamalaksha Sarkar, both faculty members in UTPA’s College of Engineering and Computer Science.  In this process, fibers spin at the nano level, increasing its strength and efficiency. Forcespinning is significant for sustainability in that the technology can be used in many manufacturing applications including medical and filtration materials, textiles, personal care products including diapers and cosmetics, insulation, and energy storage, making these products more cost effective. UTPA's first regional technology start-up company FibeRio, has manufactured the machines using Forcespinning™ technology to produce nanofibers in greater quantities and materials at a lower cost.  This technology is an example of how effectively transferring and leveraging the knowledge and expertise from UTPA can enhance sustainable economic development in the region.
+
+
+
+Coastal Studies Lab
+	The University of Texas-Pan American Coastal Studies Laboratory is part of the UTPA campus and studies and exhibits marine life such as crustaceans, marine vertebrates and plant life.  There are several aquariums and touch tables.  This lab is located on South Padre Island, Texas within easy reach of a variety of marine, estuarine and terrestrial habits.  Programs at the laboratory focus on understanding the interrelationships that govern the structure and functioning of inshore coastal ecosystems and impact of human activities on coastal resources.  Research focuses on the coastal ecosystems of southern Texas and northern Mexico.  
+CSL researchers are conducting a hydrographic survey at critical locations in the Laguna Madre to predict where an oil or chemical spill would travel if it entered the Laguna Madre through the Brazos Santiago Pass from the Gulf of Mexico.  
+The Texas Marine Mammal Stranding Network, founded in 1980, is a nonprofit volunteer-based organization dedicated to the understanding and conservation of marine mammals. The Network rescues and rehabilitates marine mammals that strand along the Texas Coast, providing food, medical treatment and 24-hour-a-day observation. Network volunteers in six regions along the coast respond immediately when a stranding is reported.  
+The UTPA Coastal Studies Laboratory is an active member of the South Padre Island Sea Turtle Salvage and Stranding Network. The Sea Turtle Stranding and Salvage Network (STSSN) was formally established in 1980 to collect information on and document strandings of marine turtles along the U.S. Gulf of Mexico and Atlantic coasts. The network encompasses the coastal areas of the eighteen state region from Maine through Texas, and includes portions of the U.S. Caribbean. Data are compiled through the efforts of network participants who document marine turtle strandings in their respective areas and contribute those data to the centralized STSSN data base.
+Bay Watershed Education and Training (B-WET) is an environmental education program that promotes locally relevant, experiential learning in the K-12 environment. The B-WET program aims to promote environmental literacy in society, supporting individuals to understand, protect and restore watersheds and related ocean and coastal ecosystems. NOAA recognizes that knowledge and commitment built from firsthand experience, especially in the context of one's community and culture, is essential for achieving environmental stewardship.
+Carefully selected experiences driven by rigorous academic learning standards, engendering discovery and wonder, and nurturing a sense of community will further connect students with their watershed, help reinforce an ethic of responsible citizenship, and promote academic achievement. B-WET maintains relevance by responding to regional education and environmental priorities through local implementation
+Dr. Thomas Whelan is the Coordinator for the American Chemical Society-National Chemistry Olympiad for the South Texas Division. He serves as the Chair of Freshwater and Marine section of the Texas Academy of Science and is an Assistant Professor of Chemistry at the University of Texas Pan American. As director of the UTPA Coastal Studies Lab, his current research includes investigating the chemical interaction between seagrasses and coastal sediments in the Lower Laguna Madre. The results of his study will help determine highest possible toxicity levels for this unique and environmentally valuable salt water estuary. 
+http://www.gulfbase.org/organization/view.php?oid=coastallab
+http://portal.utpa.edu/utpa_main/daa_home/cosm_home/csl_home/research
+
+
+
+UTPA Center for Subtropical Studies
+	The Center for Subtropical Studies is a multidisciplinary research component of the College of Science and Mathematics at The University of Texas-Pan American (UTPA).  The Center for Subtropical Studies supports the research, education, and community service missions of the university by: focusing on the environmental concerns of the Lower Rio Grande Valley, providing infrastructure and a forum for discussions of, collaboration in, and implementation of research and educational programs and initiatives involving UTPA and non-UTPA entities, enhancing institutional effectiveness by fostering organized interaction with area civic, business, and political leaders and with regional, national and international organizations with an interest in subtropical studies or the Lower Rio Grande Valley, and providing opportunities for students in the natural sciences through an organized framework of research excellence.
+http://faculty.utpa.edu/orgs/css/
+
+Faculty and staff submitted 224 proposals seeking $126.7million dollars and this resulted in 141 awards for $23.3 million dollars during FY 2014. This activity in combination with teaching efforts by our faculty is an indicator that our faculty want to not only advance the knowledge in their respective disciplines but they also want to create opportunities for our students to be engaged in hands-on experience. 
+
+Dr. John Lowdermilk, the chair of the College of Education’s Department of Educational Psychology, and the former Director of UTPA’s Education Technology Resource Center, won a $50,000 grant from the Sid W. Richardson Foundation of Ft. Worth, Texas.  Dr. Lowdermilk wrote an iPad app which demonstrates how it might feel for a special education student with a visual impairment, or attention deficit hyperactivity disorder (ADHD), a low level autism, or dyslexia who has been assigned to a mainstream classroom.  Apple has accepted the app in the iOS App store, and is being distributed by the newly-formed business, L. Lowdermilk Industries.
+
+Dr. Marie Mora won the National Science Foundation award for over $492,000 and became the national director of the Economics Mentoring Program. Working with other universities such as the University of Chicago, the Massachusetts Institute of Technology, the University of Colorado and the University of New Mexico, Dr. Mora will match up experienced economists, most of whom are members of the American Economic Association and/or the black minority-oriented National Economic Association, with minority doctoral students across the country.
+ 
+Dr. Yuanbing Mao is a chemist developing small man-packed devices intended to detect low level radiation which might be a threat to American soldiers on the battlefield. With a four-year grant from the Defense Threat Reduction Agency, Dr. Mao has been able to hire Dr. Madhab Pokhrel and Dr. Bhupendra Srivastava, both post-doctoral fellows, to work on the project, as well as two graduate students, one of whom has published two papers on the research. While the over-arching goal of the research is to develop a small device that can detect low levels of radiation that might harm American soldiers, the wider results will build the body of knowledge about luminescent core-shell nanostructures.
+
+Dr. James Bullard is another chemistry faculty member engaged in biomedical research. Over the years, he’s brought in many grants, including the current one from the U. S. Department of Health & Human Graduate student Lawrence Cano at work on UTPA’s X-ray Photoelectron Spectrometer Services and the National Institutes of Health. The four year funding totals $430,800 to examine ""A Protein Synthesis from Pseudomones aeruginosa for Screening Antibacterials.” Pseudomonas aeruginosa is a common disease-causing bacterium, and Bullard’s goal is to identify compounds that are potential drug candidates intended to fight bacteria that have become increasingly resistant to the usual treatments and to reduce the side effects of those treatments. His work is important in two ways: first to find other ways to combat hospital-borne bacteria that have become drug resistant, and second, to help with basic research in combatting bioterrorism. Dr. Bullard’s other grants include one from the prestigious Robert A. Welch Foundation, which funds research by chemists. His work has direct local impact, such as a grant from the South Texas Border Health Disparities Center for ""Development of a Minimum Bacterial Protein Synthesis System for Discovery of New Antibiotics Beneficial to South Texas Inhabitants."" Bullard is also organizing his research to include students. At present, he has two graduate students, six undergraduate students and one Master’s level assistant scientist. “It’s our hope that eventually, we will be able to bring new anti-bacterial compounds to market through a new company that will provide jobs and expand the economy of the Valley” says Bullard. “We also want to create an environment of student research.
+",--,--
+Weber State University,2016-05-23,2016-05-23 17:04:42,jenniferbodine@weber.edu,2.0,Pursuing,33.0,473.0,15.0,47.0,http://stars.aashe.org/media/secure/321/6/470/2678/Faculty%20Sustainability%20Research.pdf,,A survey was sent out to all faculty on campus via SurveyMonkey and responses were collected electronically.,,--,--
+Wilfrid Laurier University,2016-05-23,2016-05-23 17:06:57,cbennett@wlu.ca,2.0,Pursuing,56.0,549.0,20.0,48.0,,"Alex Latta- Global Studies
+Alison Blay-Palmer- Geography & Environmental Studies
+Andrea Brown- Political Science
+Anne Brydon- English & Film Studies
+Alicia Sliwinski- Global Studies
+Barry Colbert	Business- Policy
+Bob Sharpe- Geography & Environmental Studies
+Brenda Murphy- Geography & Environmental Studies
+Bruce Arai- Humanities & Social Sciences
+Bruce McConomy- Accounting
+Bryon Williston- Philosophy
+Brent Wolfe- Geography & Environmental Studies
+Carl Simpson-	Communication Studies
+Carole LeClair- Indigenous Studies
+Christopher Lemieux- Geography & Environmental Studies
+D. Marc Kilgour- Mathematics
+David Blenkhorn- Marketing
+Deborah MacLatchy- Biology
+Debora VanNijnatten- North American Studies
+Denise Grafton- Geography & Environmental Studies
+Derek Hall- Political Science
+Douglas Woolford- Mathematics
+Eliana Suarez-	Social Work
+Frank Millerd- Accounting
+Greg Irving- Organizational Behaviour/HRM
+Ginette Lafreniere- Social Work
+Rhoda Howard-Hassmann- Global Studies
+Ignacio Castillo- Business- ODS
+Janet McLaughlin- Health Studies
+Jim McGeer- Biology
+Jody Decker- Geography & Environmental Studies
+John Triggs- Archeology & Classical Studies
+Judy Bates- Geography & Environmental Studies
+Kevin Stevens- Biology
+Kim Anderson- Indigenous Studies
+Lucy Luccisano- Sociology
+Michael Imort- Geography & Environmental Studies
+Manuel Riemer- Psychology
+Markus Poetzsch- English
+Mary-Louise Byrne-	Geography & Environmental Studies
+Marc Kilgour- Mathematics
+Mitali De-	Business- ODS
+Michael Wilkie- Biology
+Randy Wigle- Economics
+Rob Milne- Geography & Environmental Studies
+Robert Feagan- Contemporary Studies
+Robert McLeman- Geography & Environmental Studies
+Sarah Wilner- Marketing
+Scott Slocombe- Geography & Environmental Studies
+Sean Doherty-	Geography & Environmental Studies
+Simon Dalby- Geography & Environmental Studies
+Stephen Haller- Contemporary Studies
+Steven Roberts- Geography & Environmental Studies
+Tanya Richardson- Anthropology
+Tracy Snodden- Economics
+Xuan Zhao- Business- ODS
+",The institution went through the heads of the department to document each faculty member engaged in research and added this to a list.,"-Centre for Research on Sustainable Food Sysetms- Alison Blay-Palmer, Department of Geography and Environmental Studies 
+In 2013, the Laurier Research Centre for Sustainable Food Systems was launched, which will provide opportunities for research in sustainable community food initiatives. The centre will open more opportunities for cross-disciplinary collaboration in this field of research, and will address research and policy challenges of urban and rural food security around the world.  
+",--,--
